@@ -1,0 +1,241 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Stodola",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Martin Němec",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-09-14T00:00:00.000Z",
+    "published": "2021-09-09T13:08:43.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/stodola_025.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_stodola.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Prolog",
+      "href": "OEBPS/Text/stodola_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Stodola",
+      "href": "OEBPS/Text/stodola_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Malgo sa kater",
+      "href": "OEBPS/Text/stodola_008.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Plachetnice",
+      "href": "OEBPS/Text/stodola_009.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "Déšť",
+      "href": "OEBPS/Text/stodola_010.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Díra",
+      "href": "OEBPS/Text/stodola_011.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "3× fejeton osamělé ženy",
+      "children": [
+        {
+          "title": "Virtuosové",
+          "href": "OEBPS/Text/stodola_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Abiturienti",
+          "href": "OEBPS/Text/stodola_012.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Zesnulí",
+          "href": "OEBPS/Text/stodola_012.xhtml#_idParaDest-10"
+        }
+      ],
+      "href": "OEBPS/Text/stodola_012.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "Pět sester",
+      "href": "OEBPS/Text/stodola_013.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "Samuraj",
+      "href": "OEBPS/Text/stodola_014.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "Kojná",
+      "href": "OEBPS/Text/stodola_015.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Skrytá tvář operní inscenace",
+      "href": "OEBPS/Text/stodola_016.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Ponorka",
+      "href": "OEBPS/Text/stodola_017.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Koleda",
+      "href": "OEBPS/Text/stodola_018.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Epidemická choroba na tři",
+      "href": "OEBPS/Text/stodola_019.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Earl grey",
+      "href": "OEBPS/Text/stodola_020.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "Velké a malé ryby",
+      "href": "OEBPS/Text/stodola_021.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "Noční tramvaj",
+      "href": "OEBPS/Text/stodola_022.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "První auto Paula F. Shoenlebena",
+      "href": "OEBPS/Text/stodola_023.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "Alzheimer’s game",
+      "href": "OEBPS/Text/stodola_024.xhtml#_idParaDest-22"
+    }
+  ]
+}
