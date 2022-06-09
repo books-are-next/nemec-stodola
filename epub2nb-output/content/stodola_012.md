@@ -5,8 +5,6 @@ contentType: prose
 
 ## Virtuosové
 
-  
-
 Všimli jste si někdy, že jsou na světě klavírní virtuosové pouze dvojího druhu?
 
 Buď jsou to takové neduživé děti s pavoučími prsty, kterými elegantně masírují bílé i černé klávesy, nepodléhajíce při tom jakýmkoliv předsudkům; vážní chlapci s účesy ze sedmdesátých let, bledí mladíci v nepadnoucích oblecích s lupy na vycpaných ramenech…, anebo pak jsou to velmi staří, vrásčití a věčně podmračení kmeti s divokými trsy obočí, s hranatými prsty dotýkajícími se ledabyle kláves jakoby mimochodem, téměř bez úhozu; starci s chomáči dlouhých bílých vlasů po stranách lysých lebek potažených tenkou kůži.
@@ -32,8 +30,6 @@ Snažíte se přemýšlet o hudbě, když však později ulehnete do postele a�
 Matka ve vedlejší místnosti má krátký záchvat nuceného kašle. Tím obvykle demonstruje svoji povědomost o pozdní hodině, v kterou jste přišla domů. Po chvíli je slyšet jen nepravidelné bzučení pouliční lampy.
 
 ## Abiturienti
-
-  
 
 Všimli jste si někdy, že na abiturientských večírcích bývají přítomni i zcela neznámí lidé?
 
@@ -116,8 +112,6 @@ V nemocném světle pouliční lampy odemykáte rezavou branku vedoucí k domu
 Matka je ještě vzhůru – v kuchyni se svítí.
 
 ## Zesnulí
-
-  
 
 Všimli jste si někdy, že svět kolem nás pozvolna zabydlují zesnulí?
 

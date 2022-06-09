@@ -3,8 +3,6 @@ title: Noční tramvaj
 contentType: prose
 ---
 
-  
-
 Tolik chlastu… Móře! A těch cigár, co jsem ten večer vypálil…, z těch vajglů bych postavil model tuberáka 1 : 1!
 
 V baru jsem sbalil docela pěknou tmavovlásku a potom zjistil, že už jsem ji sbalil před třema rokama a dokonce s ní chodil! Teda nikam jsem s ní nechodil, párkrát jsem s ní spal. Teda nespal. Jediný, co jsme ten tejden nedělali, bylo chození a spaní. A to fakt nepřeháním!

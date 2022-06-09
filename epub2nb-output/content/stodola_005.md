@@ -3,4 +3,4 @@ title: ''
 contentType: prose
 ---
 
-Věnováno mé ženě Janě
+_Věnováno mé ženě Janě_

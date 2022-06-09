@@ -3,8 +3,6 @@ title: Pět sester
 contentType: prose
 ---
 
-  
-
 Když jsem tehdy v červnu objevil dům s kamennými schody vedoucími k zazděnému vchodu, bylo Lence jedenáct roků.
 
 Kolem domu se jako čpící jezero rozlévalo pole kopřiv s ostrůvky kvetoucích bodláků. Na jednom z těch fialových ostrovů byl psí hrob. Několik velkých kamenů, dřevěný kříž a na něm opršelá cedulka; nevzhlednou kaligrafií dětské ruky bylo na ní napsáno jméno ČERT. Za domem bylo vyhaslé ohniště a kolem něj několik špalků na sezení. Na dveřích kůlny byl připevněn terč se spoustou děr od diabolek.

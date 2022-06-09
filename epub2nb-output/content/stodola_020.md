@@ -3,8 +3,6 @@ title: Earl grey
 contentType: prose
 ---
 
-  
-
 V místnosti zamřížované stíny žaluzií stála bez dechu nahá, asi třicetiletá žena a naslouchala. Na krásné tváři měla tužkou na obočí nakreslen tenký knírek. Mírně předkloněná, jako číhající zvíře, čekala na spásný zvuk. (Proužky světla, přecezené žaluzií, vytvářely na jejím dokonalém těle podivuhodnou kresbu, která šelmovitý dojem umocňovala.)
 
 Zvukem, který zrušil její napjatou strnulost, se stalo cákání sprchy ozývající se z koupelny. Náraz proudu vody na dlaždice a na tělo nyní již slastně odfrkujícího muže fungoval jako výstřel startovací pistole pro její sprint ke kabelce visící na věšáku u vstupních dveří bytu.
@@ -31,9 +29,9 @@ Paní Schmidtová vzpomínala na dávné události, při kterých jednotlivé ku
 
 Dlouhý (krátký) život, rozdělený na jednotlivé obrazy tříštěním drahého porcelánu, jako promenádní pochod rozfázovaný údery činelů.
 
-1927 – křtiny Adélky Schmidtové. Starý Schmidt, plukovník ve výslužbě, opilý štěstím z příchodu prvního vnoučete a lahví po léta k té příležitosti hýčkaného francouzského koňaku, naráz srazil ze stolu, pod který se odebíral, polévkovou mísu (s polévkou), dva hrnečky (s čajem) a cukřenku (s cukrem).
+_1927 – křtiny Adélky Schmidtové. Starý Schmidt, plukovník ve výslužbě, opilý štěstím z příchodu prvního vnoučete a lahví po léta k té příležitosti hýčkaného francouzského koňaku, naráz srazil ze stolu, pod který se odebíral, polévkovou mísu (s polévkou), dva hrnečky (s čajem) a cukřenku (s cukrem)._
 
-Cukřenka a mísa byly na druhý den nezvykle bledým a mlčenlivým plukovníkem dokoupeny. Na čaj bylo od té doby třeba zvát ne víc než deset lidí.
+_Cukřenka a mísa byly na druhý den nezvykle bledým a mlčenlivým plukovníkem dokoupeny. Na čaj bylo od té doby třeba zvát ne víc než deset lidí._
 
 Přes cedníček, zahnědlý letitým používáním, přelila čaj do šálků.
 
@@ -45,11 +43,11 @@ Na háček vedle sporáku pověsila pestrobarevnou, na dvou místech propálenou
 
 Během mluvení došla ke stolku, na který položila tác a usedla do pohodlné židle naproti koženkovému křeslu. Dál vzpomínala.
 
-1930 – roztančená maminka po příchodu z plesu baráčnické župy Královských Vinohrad ještě před spaním opláchla nádobí. Jeden hrneček!
+_1930 – roztančená maminka po příchodu z plesu baráčnické župy Královských Vinohrad ještě před spaním opláchla nádobí. Jeden hrneček!_
 
-1943 – moje porcelánová premiéra. Předvádím se tetě s maminkou jako nadějná hospodyňka a přináším za zpěvu „nočního motýla“ na podnose vlastnoručně uvařený čaj.
+_1943 – moje porcelánová premiéra. Předvádím se tetě s maminkou jako nadějná hospodyňka a přináším za zpěvu „nočního motýla“ na podnose vlastnoručně uvařený čaj._
 
-Malé klopýtnutí o kraj perského koberce… Skóre je tragické: jeden hrneček s podšálkem, cukřenka, konvice.
+_Malé klopýtnutí o kraj perského koberce… Skóre je tragické: jeden hrneček s podšálkem, cukřenka, konvice._
 
 „Noční motýl v lásce znamená, že je marná, že je ztracená,“ zanotovala zaprášeným altem paní Adéla.
 
@@ -153,13 +151,13 @@ Už nedoženeme vůbec nic, víš?“
 
 Stále se klidně usmívala.
 
-I ty zbylé tři hrnky jsou dnes přepych. Stačily by dva. Dcera Eliška a „On“ (ten její) při svých nepravidelných návštěvách pijí vždycky instantní kávu ze skla. A holky pijou limonádu. Nejraději z láhve. Jemu by nepůjčila hrneček, ani kdyby si řekl o čaj, ani kdyby se postavil na hlavu! Ani kdyby si řekl o čaj a stál při tom na hlavě!
+_I ty zbylé tři hrnky jsou dnes přepych. Stačily by dva. Dcera Eliška a „On“ (ten její) při svých nepravidelných návštěvách pijí vždycky instantní kávu ze skla. A holky pijou limonádu. Nejraději z láhve. Jemu by nepůjčila hrneček, ani kdyby si řekl o čaj, ani kdyby se postavil na hlavu! Ani kdyby si řekl o čaj a stál při tom na hlavě!_
 
 „Je to cizí člověk. Cizí! A nemá chování, i kdyby byl desetkrát inženýr,“ řekla uštěpačně.
 
 „Navíc je to, jak říkával plukovník – numismatik.“
 
-Pořád šmejdí očima po stěnách a počítá: Sloupkové hodiny – 20.000,–, skleník – 45.000,–, originál kresba Muchy – minimálně…
+_Pořád šmejdí očima po stěnách a počítá: Sloupkové hodiny – 20.000,–, skleník – 45.000,–, originál kresba Muchy – minimálně…_
 
 „No, Mucha by se mu líbil. Ten je dneska ve fóru. Za toho by bylo nejmíň padesát.
 

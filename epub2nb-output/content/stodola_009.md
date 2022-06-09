@@ -3,8 +3,6 @@ title: Plachetnice
 contentType: prose
 ---
 
-  
-
 Malý Josef nemohl dospat. Po noční bouřce s lijákem byl vzduch za pootevřeným oknem podkrovní ložnice cítit mokrou trávou a dobrodružstvím.
 
 Každoletní měsíc u velkého Josefa a Magdy ve vesnici Vřesy miloval. Domníval se, že Josef a Magda jsou jeho rodiče (ta shoda jmen a tak…), nebyl si ale zcela jistý, a tak jim raději říkal jmény. (Ve skutečnosti velký Josef nebyl jeho otcem, ale nevlastním bratrem.)

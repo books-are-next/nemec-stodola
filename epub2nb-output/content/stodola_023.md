@@ -3,8 +3,6 @@ title: První auto Paula F\. Shoenlebena
 contentType: prose
 ---
 
-  
-
 Rozšklebený troll se zelenou hřívou se houpal sem a tam, tam a sem.
 
 Paul sledoval jeho krouživý tanec a mračil se. Pak pohlédl do zpětného zrcátka, na kterém byl pestrobarevný skřet zavěšen, a zavadil očima o ženu sedící na zadním sedadle. Hleděla šedýma očima s jemnou ořízkou zlatých brýlí ven, na rolující kulisu stereotypní krajiny, přerušovanou nezbytnými billboardy.
@@ -83,17 +81,17 @@ Paulův výkon v magnetickém poli těchto dvou nočních stolků nebyl pozoruh
 
 Některým dívkám psal také verše. Byly plné vzletných slov a (poněkud v rozporu s praxí) dost smělého erotismu:
 
-> Křivka tvých boků v stínech okrových  
-> když tajný žár se taví v první hřích.  
-> Tvá ňadra oblá, jejich hebká vůně  
-> kdo poznal slast, už nemá klid a stůně.
+_Křivka tvých boků v stínech okrových  
+když tajný žár se taví v první hřích.  
+Tvá ňadra oblá, jejich hebká vůně  
+kdo poznal slast, už nemá klid a stůně._
 
 Když jim před dvěma roky vykradli během dovolené v Evropě byt a on (neboť Ruth se z toho zhroutila) pak s policejním úředníkem sepisoval škody, nalezl štůsek papírů se svými básničkami, pečlivě svázaný modrou stuhou v šuplíku, kde Ruth mívala šperky. Byl tím nálezem tehdy překvapen a polichocen. Netušil, že si jeho básně schovává, a zdálo se mu to romantické. Přistihl se i při podivně ješitné představě, která pro něho byla náhle nepochopitelně důležitější nežli ztráta cenností, zdali si zloděj přečetl alespoň prvních pár veršů?
 
-> Dotýkat kůže jemné jako jitřní pel  
-> jsem dnešní noci naposledy směl  
-> co s vroucnou vášní počít nyní mám  
-> když jsem tu zůstal bez tvé něhy…
+_Dotýkat kůže jemné jako jitřní pel  
+jsem dnešní noci naposledy směl  
+co s vroucnou vášní počít nyní mám  
+když jsem tu zůstal bez tvé něhy…_
 
 „Vydělal se vám v ložnici na koberec.“
 
