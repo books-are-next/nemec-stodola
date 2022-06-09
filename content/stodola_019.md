@@ -3,8 +3,6 @@ title: Epidemická choroba na tři
 contentType: prose
 ---
 
-  
-
 Když stanuli na svahu, odkud se jim otevřel široký pohled na město, právě svítalo.
 
 Ondřej ani Trn nikdy neviděli nic úžasnějšího. Byli omráčeni proměnlivou, do nedozírna se táhnoucí strukturou střech, uliček, náměstí a schodišť, jimž dominovaly strmé věže kostelů a monumentální skelet rozestavěné katedrály. Mezi stavbami se jako přesycený had líně vinula řeka, přeťatá kamenným mostem.

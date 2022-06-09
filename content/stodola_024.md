@@ -3,9 +3,7 @@ title: Alzheimer’s game
 contentType: prose
 ---
 
-2\. 2. 2004, odpoledne
-
-  
+_2\. 2. 2004, odpoledne_
 
 „Poluce, polštář, polymer, polárka, polní polévka!“ monotónně odříkával kapitán.
 
@@ -29,9 +27,7 @@ Kapitán se vydal na zpáteční cestu ke koženému ušáku, den po dni vzdále
 
 „Samba, … samá voda,“ řekl potichoučku, jako by jen dýchnul.
 
-17\. 2. 2004, podvečer
-
-  
+_17\. 2. 2004, podvečer_
 
 „Mariňák,“ řekl. „Marlene, marmeláda, marcipán, makrela – néé, sakra! Maro… Maroko!“ Kapitán zalapal po dechu a mimoděk si otřel šedé, vrásčité čelo.
 
@@ -45,9 +41,7 @@ Rád nacházel v nepravidelných liniích struktury dřeva rozličné obrazy. T
 
 „Marnost,“ pomyslel si.
 
-23\. 3. 2004, podvečer
-
-  
+_23\. 3. 2004, podvečer_
 
 „Kompas, kompars, kombajn, kompromis, kom…,“ zaváhal. „Kom­plot,“ vyhrkl.
 
@@ -75,9 +69,7 @@ Zastavil se a zamračil, pak pohodil hlavou, ubezpečen sám sebou, že je vše
 
 „Komunista,“ prohlásil rozvážně.
 
-2\. 4. 2004, dopoledne
-
-  
+_2\. 4. 2004, dopoledne_
 
 „Plaz, pláž, plamen, pláč, slimák, slizák…,“ dnes se kapitán cítil lépe. Oknem nahlížela do jeho ložnice frackovská tvář jara. Po mnoha deštivých dnech se naplno rozzářilo slunce a vrhlo na podlahu pruh světla.
 
@@ -103,9 +95,7 @@ Za dveřmi nikdo nebyl a zvonění telefonu ustalo. Kapitán podezíravě zvedl
 
 „Ne,“ řekl.
 
-10\. 4. 2004, poledne
-
-  
+_10\. 4. 2004, poledne_
 
 Slečna Karin, která kapitánovi od smrti manželky uklízela a vařila, byla v poslední době nucena podstupovat s oddanou nelibostí i nové, navíc nepříjemné úkony.
 
@@ -141,9 +131,7 @@ Její tvář tím zůstala nezměněna.
 
 „Imtimní imdigo,“ uzavřel rozšafně dnešní cvičení.
 
-13\. 4. 2004, noc
-
-  
+_13\. 4. 2004, noc_
 
 Kapitán otevřel oči. Ležel v šerém pokoji s rozsvícenou malou lampičkou (kvůli orientaci) a hleděl do stropu.
 
@@ -159,15 +147,11 @@ Po chvíli, když slavnostně otočil vypínačem a řekl: „Budiž světlo!�
 
 „Pramen, prám…, prázdno,“ řekl o 37 let starší kapitán o 37 let staršímu lustru nad sebou. Nebo snad někomu tím směrem…
 
-13\. 4. 2004, odpoledne
-
-  
+_13\. 4. 2004, odpoledne_
 
 „Amma, undurf, besel,“ řekl.
 
-20\. 4. 2004, večer
-
-  
+_20\. 4. 2004, večer_
 
 Anna se kvůli stávce zaměstnaneckých odborů letiště Orly dostala k jeho lůžku s dvacetihodinovým zpožděním. Všechny dárky v barevných igelitových taškách po chvilce položila (vlastně spíš upustila) na šedé linoleum. V jedné z igelitek narazila láhev kapitánova milovaného Château de Seguin 1980 do křehčího flakónu neméně jím oblíbené toaletní vody Esteé Lauder. Lahvička praskla a rozdělila se na několik ostrých elegantních střepů.
 

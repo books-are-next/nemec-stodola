@@ -3,8 +3,6 @@ title: Samuraj
 contentType: prose
 ---
 
-  
-
 „Po Redfordovi,“ řekl Robert znovu, dnes snad už posté.
 
 Pak se otočil směrem, kde předpokládal bar: „Eště jednoho, pinguine!“ zajódloval.

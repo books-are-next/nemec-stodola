@@ -3,15 +3,13 @@ title: "Velké a\_malé ryby"
 contentType: prose
 ---
 
-  
-
 Strání porostlou vysokou trávou zvolna sestupoval k útlé řece, jejíž hladina se občas zaleskla mezi stromy. Vrby, které vodu obklopovaly, obracely v poryvech vánku své tenké listy a měnily tak chvílemi barvu ze zelené ve stříbrnou. Bylo příjemné odpoledne pozdního léta. Otřel si zpocené čelo rukávem košile.
 
 Pěšina, po níž kráčel, byla jen tušenou linií mezi loukou plnou květů a hmyzu po levé straně a loukou plnou květů a hmyzu po straně pravé.
 
 Došel k vodě, která byla spíš velkým potokem než malou řekou, a stanul na jejím travnatém břehu. To místo důvěrně znal. Pohlédl na protější břeh, kde několik mohutných hrubě opracovaných kamenů vytvářelo stupně schodů, z nichž ty nejnižší mizely pod hladinou. Říká se, že tyhle kvádry kamene, stejně jako mnohé další, které byly použity na základy většiny starých domů v okolí, pocházejí z nedaleké ruiny středověkého hradu. Vzpomínal na okamžik, kdy právě tady chytil kdysi první rybu:
 
-Bosá chodidla roztřesených nohou hubeného kluka klouzající na mokrých kamenech, vztyčená hřbetní ploutev bojujícího pstruha a červené skvrnky na jeho bocích; a pak na černých schodech, které možná bývaly hradbou, o něco tmavší červeň po zabíjení ryby. To všechno jako rituál – oběť pohanským bohům, kteří si na to potrpí. I ten kolenatý chlapec má hluboko v sobě atavismus lovce, i jeho vzrušuje pohled na malé krveprolití, ze kterého je mu zároveň trochu špatně. I on má v sobě kus barbara lačnícího po krvi a jemu teď obětuje na kamenném oltáři zvíře ulovené a zabité vlastní rukou…
+_Bosá chodidla roztřesených nohou hubeného kluka klouzající na mokrých kamenech, vztyčená hřbetní ploutev bojujícího pstruha a červené skvrnky na jeho bocích; a pak na černých schodech, které možná bývaly hradbou, o něco tmavší červeň po zabíjení ryby. To všechno jako rituál – oběť pohanským bohům, kteří si na to potrpí. I ten kolenatý chlapec má hluboko v sobě atavismus lovce, i jeho vzrušuje pohled na malé krveprolití, ze kterého je mu zároveň trochu špatně. I on má v sobě kus barbara lačnícího po krvi a jemu teď obětuje na kamenném oltáři zvíře ulovené a zabité vlastní rukou…_
 
 Mušku, na kterou pstruha chytil, vázal tehdy z kohoutích per jeho bratr; byl na to šikovnější. Starší bratři jsou zkrátka na určité věci šikovnější.
 
@@ -25,19 +23,19 @@ Podíval se na hodinky a jejich bezcitné ručky (zejména nenáviděná vteři
 
 Stačilo by přebrodit říčku, vystoupat po schodech a pak se pěšinou mezi starými třešněmi, ofačovanými černou potrhanou kůrou, vydat na nedlouhou cestu k domu. Nemohl. Od doby, kdy stavení prodal, přijel se k němu podívat jen jednou:
 
-Bylo to před sedmi roky, když vzal nevlastního syna z prvního manželství své druhé ženy na cestu po stopách vlastního mládí. Chtěl se tak s oním neznámým chlapcem sblížit. K fiasku předem odsouzenou misi prozíval chlapec s odevzdaným nezájmem, který jen několikrát zpestřil předstíraným zájmem. On pak trávil den s bodrou urputností staršího kamaráda.
+_Bylo to před sedmi roky, když vzal nevlastního syna z prvního manželství své druhé ženy na cestu po stopách vlastního mládí. Chtěl se tak s oním neznámým chlapcem sblížit. K fiasku předem odsouzenou misi prozíval chlapec s odevzdaným nezájmem, který jen několikrát zpestřil předstíraným zájmem. On pak trávil den s bodrou urputností staršího kamaráda._
 
-Těžko říci, kdo z nich se trápil víc…
+_Těžko říci, kdo z nich se trápil víc…_
 
-Zhlédli zchátralou cihlovou devítiletku, proměněnou ve skladiště kulových ložisek, naobědvali se ve městě, kde vystudoval střední školu, proměněnou v „Nicht Club Laura“ a po moučníku vyrazili k vrcholu celé té kalvárie – k rodnému domu, proměněnému, jak se později ukázalo, v dům cizí. Tváří v tvář žlutavé fasádě přestavěného baráku shledal konečně stopy svého mládí ztracenými a snahu po sblížení s neznámým chlapcem marnou.
+_Zhlédli zchátralou cihlovou devítiletku, proměněnou ve skladiště kulových ložisek, naobědvali se ve městě, kde vystudoval střední školu, proměněnou v „Nicht Club Laura“ a po moučníku vyrazili k vrcholu celé té kalvárie – k rodnému domu, proměněnému, jak se později ukázalo, v dům cizí. Tváří v tvář žlutavé fasádě přestavěného baráku shledal konečně stopy svého mládí ztracenými a snahu po sblížení s neznámým chlapcem marnou._
 
-Cestu domů prožili klidně – chlapec se sluchátky discmana na uších a on se slzami deziluze v očích.
+_Cestu domů prožili klidně – chlapec se sluchátky discmana na uších a on se slzami deziluze v očích._
 
-Večer, již nedaleko Prahy, zastavili mezi poli. Chlapec se během jejich synchronního močení do šelestivého plevelu zahleděl k obloze: „To je Kassiopea. A támhle Velkej vůz a Malej vůz.“ Ukazoval bradou vzhůru. Když si zapnul poklopec, zvedl k nebi prst jako svatý Jan nebo E. T. a řekl:
+_Večer, již nedaleko Prahy, zastavili mezi poli. Chlapec se během jejich synchronního močení do šelestivého plevelu zahleděl k obloze: „To je Kassiopea. A támhle Velkej vůz a Malej vůz.“ Ukazoval bradou vzhůru. Když si zapnul poklopec, zvedl k nebi prst jako svatý Jan nebo E. T. a řekl:_
 
-„To je Pegas a tamto Androméda. Vidíš?“
+_„To je Pegas a tamto Androméda. Vidíš?“_
 
-Muž se podíval na syna (nevlastního) s kouskem hrdosti (vlastní). Zbytek cesty promlčeli jaksi srdečněji.
+_Muž se podíval na syna (nevlastního) s kouskem hrdosti (vlastní). Zbytek cesty promlčeli jaksi srdečněji._
 
 Dnes po letech pochopil, že stopy svého mládí nachází zde u řeky. Ta zůstala neproměněna. Jen neznámý chlapec tu chyběl, aby to uviděl.
 
@@ -51,7 +49,7 @@ Z dálky se ozval jemný zvuk cirkulárky.
 
 I ten ořešák velikej, kterej před domem stával, pokáceli, uvědomil si trpce.
 
-Horizontální čáry s iniciálami, počtem centimetrů a letopočtem, vyřezané do kmene – každoroční měření výšky obou bratrů. Tolik se smáli, když pochopili, že příčinou jejich malých přírůstků je růst stromu samého…
+_Horizontální čáry s iniciálami, počtem centimetrů a letopočtem, vyřezané do kmene – každoroční měření výšky obou bratrů. Tolik se smáli, když pochopili, že příčinou jejich malých přírůstků je růst stromu samého…_
 
 I dřevěnou kůlnu, kde jsme s bráchou mívali bunkr – Hlavní stan obršturmbanhofcukfírera (jak jsme říkali tomu doupěti) –, strhnuli, syčáci, zahořekoval v duchu.
 
@@ -65,19 +63,19 @@ Když byl ve vodě po kotníky, vzala voda trosky mauzolea s odroleným názvem
 
 Cítil se teď lehčí a… krásnější, když z něho řeka odplavovala mindráky, trapasy a neúspěchy uplynulých let jako šupiny špíny. Kameny pod hladinou mu připadaly jako meteory a zeleň stromů na březích nesmírná. Zahleděl se na horizont temného lesa v dáli a vzpomněl si na povinné prázdninové sbírání lesních plodů:
 
-Stojí s bratrem mezi kmeny voňavých borovic, smějí se fialovými dásněmi a vyplazují na sebe fialové jazyky. Právě je ovládl záchvat smíchu až k počůrání.
+_Stojí s bratrem mezi kmeny voňavých borovic, smějí se fialovými dásněmi a vyplazují na sebe fialové jazyky. Právě je ovládl záchvat smíchu až k počůrání._
 
-„Ty seš Irskej setr! Čistokrevnej!“ křičí.
+_„Ty seš Irskej setr! Čistokrevnej!“ křičí._
 
-„A ty seš Skotskej svetr, srabe! Čistokrevnej!“ pláče smíchy bratr.
+_„A ty seš Skotskej svetr, srabe! Čistokrevnej!“ pláče smíchy bratr._
 
-„Srabe, a ty seš čau-čau!“ řičí on.
+_„Srabe, a ty seš čau-čau!“ řičí on._
 
-„A ty seš… nazdar-nazdar! Čistokrevnej, srabe!“ zajíká se bratr v agónii veselí.
+_„A ty seš… nazdar-nazdar! Čistokrevnej, srabe!“ zajíká se bratr v agónii veselí._
 
-„A ty seš penis-klitoris!“ omráčil staršího bratra i sebe.
+_„A ty seš penis-klitoris!“ omráčil staršího bratra i sebe._
 
-„Teda brááácho! Kdes todle sebral?“ směje se starší z bratrů a nabírá z poloprázdného plecháčku borůvky do prstů, aby je rozmazal menšímu po tvářích. Ten, ozdoben šíleným fialovým knírem, bez váhání sourozeneckou lásku opětuje.
+_„Teda brááácho! Kdes todle sebral?“ směje se starší z bratrů a nabírá z poloprázdného plecháčku borůvky do prstů, aby je rozmazal menšímu po tvářích. Ten, ozdoben šíleným fialovým knírem, bez váhání sourozeneckou lásku opětuje._
 
 V tůni pod trsem ostré trávy, pár metrů od něho, skočil po letící mušce či jepici pstruh. Opravdu velký!
 

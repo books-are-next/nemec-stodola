@@ -3,8 +3,6 @@ title: Koleda
 contentType: prose
 ---
 
-  
-
 Kolem osmé hodiny večer začalo hustě sněžit. Město zvolna vystoupilo ze tmy, pokryto matným světlem. Jakoby vyzařovalo bledou auru, jakoby bylo smířené. Ostré hrany se zaoblily, agresivní zvuky se utišily a nevzhledné rekvizity ulice působily náhle úpravně a dokonale jako mramorové sochy (vlastně měkčeji – jako sádrové odlitky mramorových soch). Ze všech aut se rázem staly sanitky. Praha se změnila v idylický a nehybný svět uvnitř skleněného těžítka ze zašlých časů.
 
 Přišla půlnoc a Štědrý den se líně převalil na bok Hodu božího.

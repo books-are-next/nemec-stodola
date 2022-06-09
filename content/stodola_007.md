@@ -3,8 +3,6 @@ title: Stodola
 contentType: prose
 ---
 
-  
-
 Stodola hořela. Plameny šlehaly do výše mnoha metrů, ozýval se praskot krovů stravovaných zdivočelým živlem a vzduch byl na­plněn štiplavým dýmem. Slábnoucímu dni propůjčoval oheň zdání romantického západu slunce, ač byla obloha zcela zatažená a slunce se po celý den skrývalo za šedou bariérou hustých mraků.
 
 Bylo dusno. Přes táhlý kopec po silničce z rozpraskaného asfaltu, z jehož puklin vyrůstaly trsy suché trávy, přijíždělo auto.

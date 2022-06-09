@@ -3,8 +3,6 @@ title: Ponorka
 contentType: prose
 ---
 
-  
-
 Již třetí den pozorovala Malva nehybnou ponorku a pocit strachu zvolna ustupoval její vrozené zvědavosti.
 
 Zvířený písek kolem vraku se dávno usadil a kovový kolos se začínal stávat součástí šerého a navýsost tichého podmořského světa. Malva v celém svém velmi dlouhém životě nic podobného ponorce neviděla. Temným vetřelcem, který sem dopadl z jiného, jí neznámého světa, byla přitahována a zároveň z něj cítila těžko definovatelnou hrůzu.

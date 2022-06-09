@@ -3,8 +3,6 @@ title: Kojná
 contentType: prose
 ---
 
-  
-
 Tvář spící ženy byla v tlumeném světle, které do ložnice dopadalo z pouliční lampy, klidná, nehybná a neznámá.
 
 Sledoval její obličej již několik nocí a výsledky jeho pozorování byly zneklidňující; čím déle po nocích na manželku zíral, tím více se vzdalovala podobě ženy, kterou, jak se doposud domníval, zná za sedmnáct let společného života do všech nepatrných detailů. Tak jako běžně užívané slovo neustálým opakováním ztrácí původní význam, tak i hlava spočívající na polštáři vedle něho ztrácela dlouhým pozorováním svou identitu a měnila se v neznámý objekt. Jednotlivé rysy její tváře byly samozřejmě stejné; ústa, nos, klenba očních oblouků, piha na krku, to vše bylo důvěrně známé, a přece se celek, který tyto jednotlivosti spoluvytvářely, měnil během nočních pozorování v cosi nečekaně cizího.

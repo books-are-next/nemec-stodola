@@ -3,8 +3,6 @@ title: Déšť
 contentType: prose
 ---
 
-  
-
 „Zasraná krávo!“ Ta dvě slova si hbitě obhlédla světlý pokoj a rozhodla se zůstat. Zaplnila prostor mezi stropem, podlahou a čtyřmi stěnami do posledního krychlového centimetru, nahlédla po­otevřenými dveřmi do vedlejší místnosti a vsákla se do celého domu. Pozměnila odstín tapet, koberců i obrazů ve prospěch chronické vulgarity. Ta dvě sprostá slova, vyřčená jako jedno velmi sprosté (zasranákrávo!), zůstala všudypřítomná. Trčela ve vzduchu jako komiksová bublina.
 
 Žena stojící u okna se nevěřícně otočila po muži, který ji tak poprvé po sedmi letech soužití oslovil, a přimhouřila zelené oči. Pak se pomalu a mocně nadechla: „Ty hnusnej hajzle!“ zasyčela. Na plechový parapet za zavřeným oknem dopadly netečně první kapky.
