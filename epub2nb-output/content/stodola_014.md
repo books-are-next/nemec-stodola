@@ -3,6 +3,8 @@ title: Samuraj
 contentType: prose
 ---
 
+<section>
+
 „Po Redfordovi,“ řekl Robert znovu, dnes snad už posté.
 
 Pak se otočil směrem, kde předpokládal bar: „Eště jednoho, pinguine!“ zajódloval.
@@ -32,6 +34,10 @@ Odvrátil se s mávnutím ruky od dánského soft porna a hovořil nyní ke sk
 „Vo žádným pitomým vibrátoru neměla ani šajn,“ oznámil mu. „To ať si ta slečna _Kráva_ dělá prču z někoho jinýho. Máti prostě milovala Redforda; jak se usmíval s těma bílejma zubama ve zpocený a neholený tváři, jak byl opálenej a… a skvělej! Tak je to! Podle otce jsem se měl jmenovat Karel. ‚Nepřichází v úvahu!‘ řekla mu matka a podívala se na něho jako na někoho…, jako na někoho, kdo není Redford. Chápeš? A bylo to!“
 
 Robert se smutně zahleděl do mlhy kolem sebe a polohlasně zabrumlal: „Eště že nechodila do bijáku třeba na Sutherlanda…“
+
+</section>
+
+<section>
 
 Samuraj stál v nočním dešti a pomalu padající kapky omývaly jeho nahé čelo. Struny lijáku vnímal jako jednotlivé kapky a cítil se jejich doteky očišťován. Park byl prázdný a tichý, ale z nedaleké ulice sem doléhal těkavý puls velkoměsta.
 
@@ -63,6 +69,10 @@ Za chvíli ho pohltila ulice, která zdá se, je vždy připravena nabídnout ko
 
 Samuraj se vynořil mezi stromy a zaujal původní stanoviště, odkud dobře viděl a slyšel do všech stran.
 
+</section>
+
+<section>
+
 Robert se už ani neobtěžoval s oblíbeným alchymickým rituálem, sevřel zeleného panáka v levé pěsti a zčásti se jeho obsahem trefil i do úst.
 
 Číšník mu zároveň se sklenkou přinesl účet a nyní opakovaně a netrpělivě žádal o jeho uhrazení: „Budeme končit, pane. Pane! Budu vás prosit o zaplacení!“
@@ -83,6 +93,10 @@ Robert vrhnul na stůl hrst drobných, které našel v kapse kabátu a s opov
 
 Část mincí se rozkutálela a několik jich spadlo i na podlahu.
 
+</section>
+
+<section>
+
 Samuraj dál čekal. Byl ostražitý.
 
 Ostražitost byla nedílnou součástí jeho bytosti, takže si mohl dovolit přepych snivého vzpomínání, aniž by tím sebeméně utrpěla.
@@ -96,6 +110,10 @@ Takže zároveň:
 2\. „Ghooomzzzdooom,“ promluvil gong a dozníval dlouze, přičemž rozechvíval opakovaným nárazem samurajovu mysl, tak jako kruhy na vodě po vhození velkého kamene narážejí na břeh.
 
 3\. Dívka zašeptala jeho tajné jméno. Usmál se a objal ji, pohladil její větvemi tetované břicho, pohladil její panenská ňadra a nechal se nést okamžikem, věčností a šeříkovou vůní.
+
+</section>
+
+<section>
 
 Robert vylétl z baru tak, jak tomu bývá v groteskách s Charlie Chapli­nem; směšně, smutně a rychle. Trochu uklouzl na mokré dlažbě, nakonec ale pohybem rukou, připomínajícím lopatky větrného mlýnu v prudkém větru, vyrovnal vratkou stabilitu a neupadl.
 
@@ -118,6 +136,10 @@ Otočil se, čímž v louži rozpoutal další modrou extázi, a zamířil nej
 Po pár metrech se zastavil a usilovně přemýšlel, co mu připomíná omamná vůně, která se tu v deštěm omytém vzduchu vznáší.
 
 Nepřišel na to a po několikaminutovém zápase s pamětí rozehnal vůni i embryo vzpomínky kouřem cigarety. Pocítil potřebu ulevit močovému měchýři, a tak za dusivého záchvatu kuřáckého kašle vyrazil k blízkému parku.
+
+</section>
+
+<section>
 
 „Čekám tu na tebe,“ řekl samuraj.
 
@@ -181,6 +203,10 @@ Zavřel oči.
 
 Měl je zavřené ještě dlouho po tom, co přestalo pršet. Až do svítání.
 
+</section>
+
+<section>
+
 Tamara venčila vlkodava Hůlka vždy velmi brzo ráno, po návratu z noční směny v kasinu St. Money. S opilci a homelessy problémy nemívala, neboť Hulk, ač velký dobrák (opravdu velký), svou hmotností a kubaturou tlamy zrazoval každého od navazování jitřních známostí, natož pak od nekalých úmyslů jakkoli motivovaných.
 
 Bylo krásné ráno, plné průzračného vzduchu, a park byl po nočním lijáku ozdoben mnoha odstíny zelené, od smaragdově temné až po brčálově svěží.
@@ -202,3 +228,5 @@ Tamara se na psa usmála, on se usmál s jazykem růžovým jak čerstvá šunk
 Pes krátce štěkl.
 
 Dívka se shýbla, trochu štítivě zvedla uslintaný klacek z cesty a hodila ho do zelené dálky před sebou.
+
+</section>

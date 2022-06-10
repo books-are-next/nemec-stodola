@@ -3,6 +3,8 @@ title: Earl grey
 contentType: prose
 ---
 
+<section>
+
 V místnosti zamřížované stíny žaluzií stála bez dechu nahá, asi třicetiletá žena a naslouchala. Na krásné tváři měla tužkou na obočí nakreslen tenký knírek. Mírně předkloněná, jako číhající zvíře, čekala na spásný zvuk. (Proužky světla, přecezené žaluzií, vytvářely na jejím dokonalém těle podivuhodnou kresbu, která šelmovitý dojem umocňovala.)
 
 Zvukem, který zrušil její napjatou strnulost, se stalo cákání sprchy ozývající se z koupelny. Náraz proudu vody na dlaždice a na tělo nyní již slastně odfrkujícího muže fungoval jako výstřel startovací pistole pro její sprint ke kabelce visící na věšáku u vstupních dveří bytu.
@@ -14,6 +16,10 @@ Zapálila si stříbrným zapalovačem, který i s krabičkou vzápětí uklid
 Když došla k oknu, povytáhla žaluzii, rutinně si podprsenku zapnula a vyhlédla opatrně do propasti ulice. Páteř jí chladnými prsty pohladila závrať.
 
 Z tenké cigarety pak potáhla dým tak náruživě, až se jí propadly tváře.
+
+</section>
+
+<section>
 
 „Earl grey,“ řekla pohoršené paní Schmidtová, stojící u kuchyňského pultu, zamračila se, otočila hlavu k otevřeným dveřím a nabídla své mračení koženkovému křeslu v obýváku.
 
@@ -197,6 +203,10 @@ Paní Schmidtová pomalu položila sluchátko a vrátila se na svou (maličko n
 
 Hodiny hlasitě zatikaly: „Tik, tak, tik, tak.“
 
+</section>
+
+<section>
+
 „Slibuju to!“ řekla rychle (co nejrychleji) bruneta.
 
 „Slibuju! Už nikdy, nikdy nebudu kouřit, lásko!“
@@ -210,3 +220,5 @@ Vrátil se do koupelny a pečlivě si otřel červenou barvu z úst do bíléh
 Po dlouhé chvíli uchopil ručník a zrcadlo otřel. Pak z chromové poličky pod zrcadlem vyndal rtěnku, našpulil rty jako při polibku a rychlým pohybem si je namaloval. Opakovaným třením rtu o ret pak tu rudou barvu dokonale rozetřel a vyšel energicky z místnosti.
 
 V zrcadle se místo jeho obličeje odrážela jen nazelenalá mramorová dlažba, kterou byly stěny koupelny obloženy.
+
+</section>

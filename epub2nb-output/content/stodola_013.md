@@ -3,6 +3,8 @@ title: Pět sester
 contentType: prose
 ---
 
+<section>
+
 Když jsem tehdy v červnu objevil dům s kamennými schody vedoucími k zazděnému vchodu, bylo Lence jedenáct roků.
 
 Kolem domu se jako čpící jezero rozlévalo pole kopřiv s ostrůvky kvetoucích bodláků. Na jednom z těch fialových ostrovů byl psí hrob. Několik velkých kamenů, dřevěný kříž a na něm opršelá cedulka; nevzhlednou kaligrafií dětské ruky bylo na ní napsáno jméno ČERT. Za domem bylo vyhaslé ohniště a kolem něj několik špalků na sezení. Na dveřích kůlny byl připevněn terč se spoustou děr od diabolek.
@@ -69,8 +71,18 @@ Ticho nám pomohlo slyšet a vidět zvláštní věci, umožnilo nám prožít 
 
 Jednoho bezmračného podvečera na konci srpna jsme se objali přede dveřmi do pravděpodobné ložnice. Věděla, že je to naposledy, a smála se úzkostně. Bál jsem se toho, co bude dál, a bál jsem se i toho, co už dál nebude. Ona také, ale jinak…
 
+</section>
+
+<section>
+
 Té noci vyhnal veliký požár z lesa nevídaná zvířata a několik zpanikařených stromů.
+
+</section>
+
+<section>
 
 Když jsem se po mnoha letech, během kterých jsem nevěděl, jak najít cestu, vrátil na to místo, uviděl jsem jen veliký obdélník světle­zelených kopřiv v obrovském lánu kopřiv tmavších. Dům již nebyl, ale stále k němu vedly dva žulové schody. Hrob psa Čerta ani ostatní hroby jsem nenašel.
 
 Byl podzim a kopřivami bez rozdílu barvy lomcoval urputný vítr, který zároveň hnal po nebi neuspořádané mraky.
+
+</section>

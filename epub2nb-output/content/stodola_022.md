@@ -3,6 +3,8 @@ title: Noční tramvaj
 contentType: prose
 ---
 
+<section>
+
 Tolik chlastu… Móře! A těch cigár, co jsem ten večer vypálil…, z těch vajglů bych postavil model tuberáka 1 : 1!
 
 V baru jsem sbalil docela pěknou tmavovlásku a potom zjistil, že už jsem ji sbalil před třema rokama a dokonce s ní chodil! Teda nikam jsem s ní nechodil, párkrát jsem s ní spal. Teda nespal. Jediný, co jsme ten tejden nedělali, bylo chození a spaní. A to fakt nepřeháním!
@@ -140,3 +142,5 @@ No dobře, neměl jsem v zimě tolik experimentovat se vší tou zkurvenou chem
 Podíval jsem se z okna a chvíli trvalo, než mi došlo, že se dívám do oka – do obrovskýho, vážnýho oka v nezměrný ploše popelavě bílý, vrásčitý kůže.
 
 Můj křik vystřídalo naprostý ticho, který by se dalo krájet, sekat, řezat, pilovat a brousit. V tom hluchým tichu kdesi pod hladinou vody se zřetelné ozval reprodukovanej hlas: „Hermana Melvilla. Příští stanice Dantova.“
+
+</section>

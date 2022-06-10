@@ -3,6 +3,8 @@ title: Alzheimer’s game
 contentType: prose
 ---
 
+<section>
+
 _2\. 2. 2004, odpoledne_
 
 „Poluce, polštář, polymer, polárka, polní polévka!“ monotónně odříkával kapitán.
@@ -27,6 +29,10 @@ Kapitán se vydal na zpáteční cestu ke koženému ušáku, den po dni vzdále
 
 „Samba, … samá voda,“ řekl potichoučku, jako by jen dýchnul.
 
+</section>
+
+<section>
+
 _17\. 2. 2004, podvečer_
 
 „Mariňák,“ řekl. „Marlene, marmeláda, marcipán, makrela – néé, sakra! Maro… Maroko!“ Kapitán zalapal po dechu a mimoděk si otřel šedé, vrásčité čelo.
@@ -40,6 +46,10 @@ Po chvilce se mu to podařilo a on se zadíval na parkety u svých pantoflí.
 Rád nacházel v nepravidelných liniích struktury dřeva rozličné obrazy. Třetí parketa vpravo od stolu ukrývala kresbu krajiny s topoly, ve druhé parketě (od předešlé směrem ke dveřím) zahlédl jako obvykle oko z pavího pera a plápolající oheň. Na další parketě tvořily ochozené vrstevnice dřeva iluzi ženské postavy. Kapitán se usmál při pohledu na oblá ňadra parketové odalisky.
 
 „Marnost,“ pomyslel si.
+
+</section>
+
+<section>
 
 _23\. 3. 2004, podvečer_
 
@@ -69,6 +79,10 @@ Zastavil se a zamračil, pak pohodil hlavou, ubezpečen sám sebou, že je vše
 
 „Komunista,“ prohlásil rozvážně.
 
+</section>
+
+<section>
+
 _2\. 4. 2004, dopoledne_
 
 „Plaz, pláž, plamen, pláč, slimák, slizák…,“ dnes se kapitán cítil lépe. Oknem nahlížela do jeho ložnice frackovská tvář jara. Po mnoha deštivých dnech se naplno rozzářilo slunce a vrhlo na podlahu pruh světla.
@@ -94,6 +108,10 @@ Za dveřmi nikdo nebyl a zvonění telefonu ustalo. Kapitán podezíravě zvedl
 „Anno?“ vrátilo se mu z mramorového chladu chodby.
 
 „Ne,“ řekl.
+
+</section>
+
+<section>
 
 _10\. 4. 2004, poledne_
 
@@ -127,9 +145,17 @@ Slečna Karin plakala dál. Příval štěstí se proměnil v příval bezmoci.
 
 Její tvář tím zůstala nezměněna.
 
+</section>
+
+<section>
+
 „Impérium, imunní, imtarzie, imatrikulace, imdividum, ikona,“ řekl po chvíli muž, jehož oči se opět bezstarostně rozletěly do vzdálených světů.
 
 „Imtimní imdigo,“ uzavřel rozšafně dnešní cvičení.
+
+</section>
+
+<section>
 
 _13\. 4. 2004, noc_
 
@@ -147,15 +173,27 @@ Po chvíli, když slavnostně otočil vypínačem a řekl: „Budiž světlo!�
 
 „Pramen, prám…, prázdno,“ řekl o 37 let starší kapitán o 37 let staršímu lustru nad sebou. Nebo snad někomu tím směrem…
 
+</section>
+
+<section>
+
 _13\. 4. 2004, odpoledne_
 
 „Amma, undurf, besel,“ řekl.
+
+</section>
+
+<section>
 
 _20\. 4. 2004, večer_
 
 Anna se kvůli stávce zaměstnaneckých odborů letiště Orly dostala k jeho lůžku s dvacetihodinovým zpožděním. Všechny dárky v barevných igelitových taškách po chvilce položila (vlastně spíš upustila) na šedé linoleum. V jedné z igelitek narazila láhev kapitánova milovaného Château de Seguin 1980 do křehčího flakónu neméně jím oblíbené toaletní vody Esteé Lauder. Lahvička praskla a rozdělila se na několik ostrých elegantních střepů.
 
 Anna nespouštěla oči z mírně povědomé tváře před sebou. Pokojem se rozlévala těžká vůně, podobně dusivá jako Annin pocit nezvratné beznaděje.
+
+</section>
+
+<section>
 
 Kapitán zatím kráčel po prašné silnici mezi vysokými topoly, které se vláčně kývaly ve větru. Šel rychle, slunce již bylo povážlivě nízko a on chtěl být na místě před setměním. Z dálky k němu dolehlo vznešené a bolestné volání páva. Přidal do kroku a cesta mu pod vojenskými botami ubíhala rychle jak horská říčka.
 
@@ -171,6 +209,10 @@ Beze slova ji objal.
 
 Po chvilce se zmítali v trávě, uchváceni vzájemnou vášní.
 
+</section>
+
+<section>
+
 Oheň během desítek minut jejich milování pohasl, jiskry zbledly, přestaly létat a proměnily se ve hvězdy. Noční obloha byla jimi poseta.
 
 Žena ležící vedle něho v trávě pravidelně oddychovala. Její plná ňadra se zdvihala a klesala ve stále se zpomalujícím rytmu. Zavřela oči.
@@ -179,9 +221,17 @@ Oheň během desítek minut jejich milování pohasl, jiskry zbledly, přestaly 
 
 „Konspirace, kondom, konvalinka.“ Nebyl kupodivu z dlouhé cesty unaven a hleděl široce otevřenýma očima do části vesmíru nad sebou. Odněkud z dálky ucítil silnou a trochu omamnou vůni. Byla mu povědomá.
 
+</section>
+
+<section>
+
 Otec Anny nečekaně otevřel bleděmodré oči a zpříma na ni pohlédl.
 
 „Anno, díkybohu!“ řekl potichu, ale srozumitelně.
+
+</section>
+
+<section>
 
 „Konání, kondolence, konstrukce…,“ pomyslel si kapitán, oči stále upřené k hvězdné obloze.
 
@@ -192,3 +242,5 @@ Kapitán se posadil a pečlivě ji přikryl kabátem uniformy. Chvilku ji pozor
 „Kontroverzní konec,“ zavtipkoval v duchu.
 
 Oheň se neochotně rozhořel.
+
+</section>

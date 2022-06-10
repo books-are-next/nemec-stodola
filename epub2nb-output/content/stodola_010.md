@@ -3,6 +3,8 @@ title: Déšť
 contentType: prose
 ---
 
+<section>
+
 „Zasraná krávo!“ Ta dvě slova si hbitě obhlédla světlý pokoj a rozhodla se zůstat. Zaplnila prostor mezi stropem, podlahou a čtyřmi stěnami do posledního krychlového centimetru, nahlédla po­otevřenými dveřmi do vedlejší místnosti a vsákla se do celého domu. Pozměnila odstín tapet, koberců i obrazů ve prospěch chronické vulgarity. Ta dvě sprostá slova, vyřčená jako jedno velmi sprosté (zasranákrávo!), zůstala všudypřítomná. Trčela ve vzduchu jako komiksová bublina.
 
 Žena stojící u okna se nevěřícně otočila po muži, který ji tak poprvé po sedmi letech soužití oslovil, a přimhouřila zelené oči. Pak se pomalu a mocně nadechla: „Ty hnusnej hajzle!“ zasyčela. Na plechový parapet za zavřeným oknem dopadly netečně první kapky.
@@ -39,7 +41,15 @@ Vyšel před dům, pohlédl k obloze a vypustil z plic zadržovaný dech –
 
 Vítr mu do očí vmetl prach z příjezdové cesty. Vzápětí dopadla na jeho tvář (na tvář před pár hodinami rozpálenou vášní) velká kapka deště. Rozběhl se ke garáži s hlavou zakrytou tenkou koženou aktov­kou. Za pár okamžiků již stěrače nestíhaly odehnat z předního skla vozu příval vody.
 
+</section>
+
+<section>
+
 V dalekých horách v rezavém kapradí se u pramene kamenitého potoka ozval tenký zvuk. Pláč? Divoké poryvy větru a deště v korunách stromů ho přehlušily.
+
+</section>
+
+<section>
 
 Seděla na zahradě pod červenobílým slunečníkem, který nyní sloužil jako deštník. Zahrada kolem byla poškrábaná svislými čárami deště jako starý film.
 
@@ -69,7 +79,15 @@ Přijala jeho objetí jako mrtvá. Mrtvá žena bez rukou a slov, které by ji 
 
 „To jsem neudělal já, lásko! Miluju tě!“ řekl mrtvé ženě ve své náruči.
 
+</section>
+
+<section>
+
 Daleko v horském lese bičovaném lijákem se divoký potok měnil v divokou řeku a podzimní vítr v podzimní vichr. Vřes zašustil a rozestoupil se jako rzí pokrytá brána. Ještě trochu beztvaré pohlédlo na mokrý svět kolem a překouslo pupeční šňůru, podobnou stvolu ocúnu, kterou bylo spojeno s tím místem. Pak vkročilo do potoka.
+
+</section>
+
+<section>
 
 Krev z koberce byla očištěna. Byla očištěna i z ženy, kterou pak tisíckrát zapřísahal, ať mu odpustí. Klečel, plakal, hladil ji a líbal. Vzpomínal na krásná místa a chvíle, aby ukotvil vratký člun přítomnosti v klidných vodách vzpomínek. Ona mu přikyvovala, pak se dokonce usmála. Několikrát mu řekla, že se nezlobí, že mu již odpustila, a při tom byla dál mrtvá. Nevěděl to, a tak se s ní po sklence Bordeaux, když sám sebe přesvědčil, že je vše v pořádku, něžně pomiloval. Byla to čistá nekrofilie…
 
@@ -83,6 +101,10 @@ Nespal. Dělal, že spí. Cítil, jak se na něho dívá, a slyšel ji odejít.
 
 Znal, stejně jako ona, odpověď na nevyřčenou otázku, kdy nastal zlom. Kdy se začalo počítat znovu od začátku… Od nuly? Od nuly ano, ale ne obvyklým způsobem. Tehdy se pro ně otevřel vesmír záporných čísel. Nekonečná hlubina mínusů a odčítání. Pozpátku odzpívaná ukolébavka pro zatím bezejmenného (žádné sezení nad kalendářem), bezpohlavního (žádné ultrazvukové snímky) spolubydlícího, zalknutého plodovou vodou. Pro malého plavce, který v jeho ženě utonul jako v hlubokém jezeře a s ním celý svět. Potopa světa v několika decilitrech výživné tekutiny pramenící v jejím břiše. Moře obklopené krajinou tkání a orgánů vyplavilo na břeh malou Ofélii a nechalo ji na pospas rackům a krabům. Měla to být… Byla to dívka. A příští týden by jí byly tři roky.
 
+</section>
+
+<section>
+
 Probudil je hukot. Nesmírné hučení, obklopující to ráno, bylo způsobeno záplavou.
 
 Vyšel na terasu a uviděl jezero, ve které se proměnil okolní svět. Zavolal přiškrceným hlasem její jméno. Přišla po chvilce, rozespalá, s kočkou Maud na rameni. Zelené oči se jim oběma rozšířily v němém úžasu. Dům stál ve vodě až po pás. Přízemí bylo zaplaveno do výšky dvou metrů, takže nyní bydleli v nízkém domku s dveřmi vedoucími na terasu, která připomínala spíše atrium vznášející se další metr nad zemí. Vlastně nad vodou! Kromě vzdálených kopců nebyla žádná země, jen rovná plocha vody, kam oko dohlédlo. Byl to ohromující pohled. Voda táhlým proudem směřovala k městu, kam každé ráno odjížděl za prací. A na hladině té vodní pláně, asi dvacet metrů od nich, stál kůň. Zvedl k nim divoké bělmo oka a vztyčil hlavu s obnaženými zuby. Napřáhla ke koni ruce a nahnula se přes zábradlí. „Panebože!“ řekl a uchopil ji pevně za paži.
@@ -93,7 +115,15 @@ Kůň zaržál. Odvrátila tvář a vešla zpět do zkráceného domu. Začala 
 
 „Musíme něco udělat!“ řekla žena a zatahala muže za rukáv jako netrpělivé dítě. Ona, on i kůň byli připoutáni k nebi tisíci provázky deště jako podivné marionety.
 
+</section>
+
+<section>
+
 Plulo, rychle unášeno proudem, přes zatopený les. Plulo mezi unavenými stromy, se skřípěním větví vzdorujícími zběsilému živlu. Plulo, hýčkáno vlnami, které mu z cesty odklízely plovoucí nástrahy.
+
+</section>
+
+<section>
 
 V telefonu se ozývalo jen chrčení, televize a rádio zůstaly v zatopeném přízemí. Ona a on se do odvolání stali trosečníky ložnice s balkónem. Teď se, podle rezolutního přání ženy, měli stát také spasiteli ohroženého koně. Věděl, že je to marnost, čirý a riskantní projev zoufalství, přesto ji od pokusu o záchranu zvířete nedokázal odradit. Na poslední chvíli, když pochopil, že je neovlivnitelná, se na plavbu po svázaném ložním prádle rozhodl vydat sám.
 
@@ -125,7 +155,15 @@ Jejich záměr byl prostý a zoufalý; upevní na koně řemeny a popruhy, kte
 
 Hustě pršelo a látka v jejích rukou prokluzovala. Držela ji tak křečovitě, že jí zbělaly klouby rukou, kolem kterých si ji omotávala. Prudce dýchala. On štítivě rozrážel špinavou vodu a také těžce dýchal. Ještě dvě tempa a bude u koně.
 
+</section>
+
+<section>
+
 Plulo v objetí šedohnědé vody a široce otevřenýma očima hledělo na hejno ptáků diagonálně protínajících šedohnědou oblohu. Vydalo zvuk velmi podobný dětskému smíchu. Rostly mu vlasy a nehty. Zároveň přestávalo být TÍM a měnilo se v TU.
+
+</section>
+
+<section>
 
 Pohled na ženu jistící na provaze z ložního prádla muže, který, stoje na hladině jezera, nabízí kytku růží koni, se neměl komu naskytnout. Škoda.
 
@@ -153,6 +191,12 @@ Dávná vzpomínka z doby asi před čtyřmi lety byla opojná a bolestná. By
 
 Druhý den voda opadla. Jezero pozřela žíznivá země. Garáž se v noci zřítila a pohřbila ve svých troskách automobil. Kolem domu zůstaly kaluže, ve kterých se odráželo modré oblačné nebe, stejně jako v důlcích po maličkých bosých nohou, které se ihned naplňovaly vodou.
 
+</section>
+
+<section>
+
 Zastavila se před domem a zvedla hlavu k balkónu s pootevřenými dveřmi.
 
 „Mamí!“ zavolala.
+
+</section>

@@ -3,6 +3,8 @@ title: První auto Paula F\. Shoenlebena
 contentType: prose
 ---
 
+<section>
+
 Rozšklebený troll se zelenou hřívou se houpal sem a tam, tam a sem.
 
 Paul sledoval jeho krouživý tanec a mračil se. Pak pohlédl do zpětného zrcátka, na kterém byl pestrobarevný skřet zavěšen, a zavadil očima o ženu sedící na zadním sedadle. Hleděla šedýma očima s jemnou ořízkou zlatých brýlí ven, na rolující kulisu stereotypní krajiny, přerušovanou nezbytnými billboardy.
@@ -16,6 +18,10 @@ První auto! Symbolizovalo pro něho tehdy, stejně jako pro většinu generačn
 Tenkrát ještě nebyli s Ruth svoji a on ji vzal na výlet; první výlet prvním autem!
 
 Paul byl tehdy na svůj Ford tak hrdý…
+
+</section>
+
+<section>
 
 Byl krásný bezoblačný den a Ruth měla pastelově květované a velmi krátké šaty (takže si neustále popotahovala dolů jejich lem), v loknách blond (chemicky blond) vlasů měla zapíchnuté brýle proti slunci a tenké prsty zakončovaly růžově nalakované nehty. To vše dohromady s hrdinou dne – patnáct let starým Fordem Taunus ve světle modrém laku (jehož včerejší majitel se dnes při vzpomínce na Paula nepřetržitě uchichtával) vytvářelo v Paulově vědomí dojem naprosté a nezvratné exkluzivity.
 
@@ -81,17 +87,33 @@ Paulův výkon v magnetickém poli těchto dvou nočních stolků nebyl pozoruh
 
 Některým dívkám psal také verše. Byly plné vzletných slov a (poněkud v rozporu s praxí) dost smělého erotismu:
 
+</section>
+
+<section>
+
 _Křivka tvých boků v stínech okrových  
 když tajný žár se taví v první hřích.  
 Tvá ňadra oblá, jejich hebká vůně  
 kdo poznal slast, už nemá klid a stůně._
 
+</section>
+
+<section>
+
 Když jim před dvěma roky vykradli během dovolené v Evropě byt a on (neboť Ruth se z toho zhroutila) pak s policejním úředníkem sepisoval škody, nalezl štůsek papírů se svými básničkami, pečlivě svázaný modrou stuhou v šuplíku, kde Ruth mívala šperky. Byl tím nálezem tehdy překvapen a polichocen. Netušil, že si jeho básně schovává, a zdálo se mu to romantické. Přistihl se i při podivně ješitné představě, která pro něho byla náhle nepochopitelně důležitější nežli ztráta cenností, zdali si zloděj přečetl alespoň prvních pár veršů?
+
+</section>
+
+<section>
 
 _Dotýkat kůže jemné jako jitřní pel  
 jsem dnešní noci naposledy směl  
 co s vroucnou vášní počít nyní mám  
 když jsem tu zůstal bez tvé něhy…_
+
+</section>
+
+<section>
 
 „Vydělal se vám v ložnici na koberec.“
 
@@ -99,11 +121,23 @@ když jsem tu zůstal bez tvé něhy…_
 
 „Máte v ložnici jeho fekálie. To dělávaj poměrně často. Je to takovej zlodějskej rituál. Něco jako autogram.“
 
+</section>
+
+<section>
+
 Paul mrkl do zpětného zrcátka. Ruth dál s opovržením sledovala nevinnou krajinu. Pokusil se vrátit ke vzpomínkám na svůj Ford Taunus. Pohladil v duchu blankytně modrý lak na jeho kapotě. Dával si pozor, aby se neusmál.
+
+</section>
+
+<section>
 
 O třicet let mladší Ruth ho ostýchavě políbila na tvář. Pocítil lehkou závrať a tlak v rozkroku. Když nasedla do auta, na PŘEDNÍ sedadlo JEHO PRVNÍHO AUTA, sáhla do kabelky (kterou si k této slavnostní příležitosti vypůjčila od starší sestry Eriky) a vyndala z ní malou příšerku se zelenými vlásky, kterou pak přivázala tenkou tkaničkou k zrcátku na stropě vozu.
 
 „To je pro štěstí, miláčku!“ řekla a usmála se široce, dlouze a oddaně.
+
+</section>
+
+<section>
 
 Byla to jiná žena! blesklo náhle s panickou hrůzou hlavou současného Paula. Big Brother ze zadního sedadla a dívka v květovaných minišatech z předního musejí být přece dvě rozličné osoby! Někdo ji během chaoticky nudných dnů jeho života vyměnil, jako se to stává v porodnicích s novorozenci! A on si toho nevšiml!
 
@@ -111,11 +145,19 @@ Horečná představa zvolna vyklidila prostor v jeho hlavě pravdivé verzi �
 
 Zvedl oči k trollovi a uviděl v pruhu zrcátka výřez vlastní tváře. Ani ve svých očích nemohl najít Paula z roku 1972…
 
+</section>
+
+<section>
+
 Tenkrát, s dívkou svých snů na předním sedadle snového vozu Ford Taunus, téměř tak starého jako on sám, překonal odpor ze zeleného skřeta, který mu připadal nevkusný, a opětoval její úsměv.
 
 Auto se pomalu rozjelo mírně stoupající ulicí mezi periferními domy. Z kolmé ulice zazářilo podvečerní světlo a zalilo interiér vozu pomerančovou šťávou.
 
 A znovu vjeli do chladného stínu šedých činžáků, jako když se ponoří do hluboké a vážné vody. Stín, stín, stín a oranžové světlo z další ulice. Nabrali rychlost a zkracující se stín byl pravidelně odkrajován už jen stroboskopickými záblesky světla během vteřin, kdy míjeli další a další boční ulice. Stííín, záblesk, chlaaad, teplo…
+
+</section>
+
+<section>
 
 Proč ale Paul ženu, která se jednoho dne zřekla předního sedadla, aby se věnovala netečnému pozorování krajiny a proměnila tím partnera v řidiče, neopustil?
 
@@ -139,6 +181,10 @@ Po týdnu bez vysvětlení vycouval z dívčina života. Jednou provždy.
 
 Sen o hlavě mu zůstal. Také jednou provždy.
 
+</section>
+
+<section>
+
 Když vyjeli z města na dálnici, ozvalo se poprvé to bouchání. Jako by pod bleděmodrou kapotou Taunusu byl vězněn unesený rukojmí. Nebyla to však kapota nad kufrem, ale nad motorem…
 
 Dávná Ruth na něho pohlédla s nepatrně křečovitým úsměvem: „Slyšíš to bouchání, lásko?“
@@ -146,6 +192,10 @@ Dávná Ruth na něho pohlédla s nepatrně křečovitým úsměvem: „Slyší
 „To nic nebude. Ten chlápek je na motory machr a…,“ polknul a odkašlal si Paul. „A tenhle bourák sešteloval jak švýcarský hodinky. Neprodal by ho, kdyby nemusel!“
 
 Ruth na něho pohlédla s hrdostí, která ho potěšila, a malou špetkou skepse, kterou nepostřehl. Ve švýcarských hodinkách se ozvalo divoké bušení. Rukojmí, držený proti své vůli v motoru, patrně trpěl klaustrofobií.
+
+</section>
+
+<section>
 
 Limuzína Shoenlebenových sjela z dálnice na okresní silnici.
 
@@ -158,6 +208,10 @@ Polkl, odkašlal si a pustil autorádio.
 „Bolí mě hlava,“ ozvalo se zezadu dřív, než cowboy na místních buranských vlnách stačil zanotovat „Lonely“.
 
 Trpí mrtvoly migrénou? napadlo Paula a rádio vypnul. Pak se raději v duchu přestěhoval ze stříbrně metalizovaného BMW do blankytné fordky.
+
+</section>
+
+<section>
 
 Byli již přes dvě hodiny cesty od města na opuštěné okresní silničce.
 
@@ -179,6 +233,10 @@ Paul polkl a odkašlal si: „Nebyl… ehm… fakt!“
 
 Rukojmí, který se během poslední desítky mil nijak neprojevoval, náhle z posledních sil vykopl prudce nohou. Ozvala se rána (jako když někdo v motoru vykopne prudce nohou), překvapený Taunus sebou zacukal a na místě zastavil.
 
+</section>
+
+<section>
+
 „Cože?“ vyhrkl Paul, který se probral z dávných vzpomínek.
 
 „Říkám, že jedeme po špatné silnici. Tudy nejezdíme.“
@@ -195,11 +253,19 @@ Doktor Weis léčil (Léčil? Prostě byl šéfem oddělení gerontologie.) Paul
 
 Paul beze slova zajel ke krajnici a zastavil.
 
+</section>
+
+<section>
+
 Paul se v motorech vyznal stejně jako v ženách. Stál již deset minut bezradně u otevřené kapoty, která blankytně zářila v houstnoucí tmě jako nástěnné zrcadlo odrážející letní oblohu, a vyhlížel se vzrůstajícím napětím nějaké auto.
 
 Z lesa se ozval křik nočního dravce. Ruth doposud seděla v autě a mlčela.
 
 Pak se Paul znovu, už poněkolikáté, zadíval do černě mastných a horkým olejem páchnoucích vnitřností motoru.
+
+</section>
+
+<section>
 
 Paul kouřil cigaretu a hleděl na odpadky mezi stromy polomrtvého lesa. Byla skoro tma a na tvář své ženy za zadním okénkem neviděl. Chvílemi mu dokonce připadalo, že tam není. Až nastoupí do auta, bude prázdné? Třeba ta osoba vzadu vůbec neexistuje, možná je jen jeho utkvělou představou?
 
@@ -208,6 +274,10 @@ Před mnoha lety, když se s obtížemi (a ztrátou sedm set padesáti dolarů)
 BMW se jemně zhouplo, když do něj s povzdechem nasedl.
 
 Prázdné nebylo.
+
+</section>
+
+<section>
 
 Paul zpozoroval kdesi v dáli se rodící světlo a vzápětí uslyšel i motor.
 
@@ -219,12 +289,22 @@ Paul zpozoroval kdesi v dáli se rodící světlo a vzápětí uslyšel i mot
 
 Paul nadšený z té jednoznačnější části jejího prohlášení se sebevědomě rozkročil na silnici a začal divoce mávat levačkou, zatímco pravou rukou ukazoval trochu komicky, ale výmluvně na otevřenou tlamu rozbitého vozu.
 
+</section>
+
+<section>
+
 „Podívej, támhle někdo mává. Asi mají něco s autem. Zastavím, ehm,“ řekl Paul a dvakrát polknul.
 
 „Ať tě to ani nenapadne,“ ozvala se utkvělá představa ze zadního sedadla.
 
 Paul pohlédl prudce do zrcátka. Kromě rozjařeného trolla se zelenou hřívou však kvůli šeru uvnitř auta nic neviděl. Na chvíli podlehl neodbytnému pocitu zmateného déjà vu a vzápětí vážně zauvažoval o vzpouře. Již sunul podrážku kožené boty k brzdovému pedálu, když rozhodně a klidně řekla: „Nezastavuj!“
 
+</section>
+
+<section>
+
 BMW projelo kolem bleděmodré fordky tak vysokou rychlostí, že Paul polekaně uskočil. Světla stříbřitého vozu rychle mizela v pozvolném stoupání, až v zatáčce mezi stromy zmizela docela.
 
 Na černou silnici dopadala černá noc.
+
+</section>

@@ -3,6 +3,8 @@ title: Ponorka
 contentType: prose
 ---
 
+<section>
+
 Již třetí den pozorovala Malva nehybnou ponorku a pocit strachu zvolna ustupoval její vrozené zvědavosti.
 
 Zvířený písek kolem vraku se dávno usadil a kovový kolos se začínal stávat součástí šerého a navýsost tichého podmořského světa. Malva v celém svém velmi dlouhém životě nic podobného ponorce neviděla. Temným vetřelcem, který sem dopadl z jiného, jí neznámého světa, byla přitahována a zároveň z něj cítila těžko definovatelnou hrůzu.
@@ -114,3 +116,5 @@ Nevěděla proč, ale byla si náhle jistá – přicházejí pro něho! Jeho l
 Není přece možné, aby zůstala bez něho! Do plátu kovu se zařezávalo ohnivé ostří a Malvě nezbývalo mnoho času. Rozhodla se intuitivně a toto jednoznačné rozhodnutí v ní vyvolalo uspokojení; bylo totiž logické a velmi, velmi intimní.
 
 Náhle klidná se otočila k Voloďovi a usmála se. Něžný úsměv se zvolna měnil v široký a ten v ještě širší. Malva tak postupně odhalovala první, druhou i třetí řadu svých drobných, ale velmi ostrých zubů.
+
+</section>

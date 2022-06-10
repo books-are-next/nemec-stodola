@@ -3,6 +3,8 @@ title: Stodola
 contentType: prose
 ---
 
+<section>
+
 Stodola hořela. Plameny šlehaly do výše mnoha metrů, ozýval se praskot krovů stravovaných zdivočelým živlem a vzduch byl na­plněn štiplavým dýmem. Slábnoucímu dni propůjčoval oheň zdání romantického západu slunce, ač byla obloha zcela zatažená a slunce se po celý den skrývalo za šedou bariérou hustých mraků.
 
 Bylo dusno. Přes táhlý kopec po silničce z rozpraskaného asfaltu, z jehož puklin vyrůstaly trsy suché trávy, přijíždělo auto.
@@ -116,3 +118,5 @@ Pole se znovu zalilo šarlatovým světlem. Nebyla to však repríza západu slu
 Ve stejnou chvíli se ve vzdáleném městě ve sterilní místnosti sterilní budovy rozhýbal kovový nehet přístroje a začal škrábavě kreslit rozkmitanou křivku na nekonečný pruh papíru. V jiné místnosti toho vážného domu se začal jeden z mnoha blikajících monitorů plnit číslicemi.
 
 Auto minulo kovovou kostru malého mostu, projelo vesnicí a zamířilo k odbočce na dálnici.
+
+</section>

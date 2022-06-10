@@ -3,6 +3,8 @@ title: "Velké a\_malé ryby"
 contentType: prose
 ---
 
+<section>
+
 Strání porostlou vysokou trávou zvolna sestupoval k útlé řece, jejíž hladina se občas zaleskla mezi stromy. Vrby, které vodu obklopovaly, obracely v poryvech vánku své tenké listy a měnily tak chvílemi barvu ze zelené ve stříbrnou. Bylo příjemné odpoledne pozdního léta. Otřel si zpocené čelo rukávem košile.
 
 Pěšina, po níž kráčel, byla jen tušenou linií mezi loukou plnou květů a hmyzu po levé straně a loukou plnou květů a hmyzu po straně pravé.
@@ -91,4 +93,10 @@ List padající ze stromu se zastavil s ním a visel metr nad hladinou. Kruh p
 
 Pak list dopadl do řeky, kruh se otevřel a rozeběhl ke břehům. Ve vodě stál muž a ze všech skrytých míst k němu připlouvaly velké a malé ryby.
 
+</section>
+
+<section>
+
 Večer jeho nevlastní syn dotáhl na plochou střechu paneláku těžký tubus se stativem. Po větrném, bezmračném dni byla obloha úplně jasná a podmínky pro pozorování hvězd ideální. Na střeše neznámý chlapec (proměněný sedmi roky v neznámého muže) sestavil veliký dalekohled a obrátil soustavu čoček k nebi. Vzdálený ruch města přestal vnímat. Světla hvězd putovala tichým vesmírem přes optiku dalekohledu do jeho očí. Hleděl na mnohá slunce a netušil, že kolem jednoho z nich, velmi vzdáleného a naprosto nedostupného, obíhají, kromě jiných těles, i dvě obydlené planety. Nemohl tedy vědět, že na té s názvem Aeodor stojí ve vláčném proudu řeky rybář a odhání kouřem doutníku dotěrné komáry, zatímco na Zanneflesu (jak se odnepaměti jmenuje druhá planeta) loví pstruhy na vlastnoručně uvázanou nymfu jeho bratr.
+
+</section>

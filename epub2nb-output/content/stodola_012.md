@@ -3,6 +3,8 @@ title: 3× fejeton osamělé ženy
 contentType: prose
 ---
 
+<section>
+
 ## Virtuosové
 
 Všimli jste si někdy, že jsou na světě klavírní virtuosové pouze dvojího druhu?
@@ -138,3 +140,5 @@ Večer si lehnete do postele, přečtete pár stran z memoárů vašeho oblíbe
 Na zeď za vaší hlavou dopadá neklidné světlo pouliční lampy a osvětluje sépiový plakát Jamese Deana, rebela, který bez zjevné příčiny po léta uhání v kabrioletu vaší ložnicí. Z nočního stolku ho s nedůvěrou pozoruje tatínek. Snímek v dřevěném stojánku je z doby, kdy pracoval v bance.
 
 Z doby, kdy byl živý…
+
+</section>

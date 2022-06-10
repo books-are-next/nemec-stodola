@@ -3,6 +3,8 @@ title: Díra
 contentType: prose
 ---
 
+<section>
+
 Pointside se přes noc opět zmenšil o blok domů nedaleko bývalé tržnice.
 
 Často jsem přemýšlel, proč k tomu dochází téměř výhradně mezi setměním a východem slunce. Noc je zřejmě spiklencem toho, čemu jsme se naučili říkat Díra. Jakoby síla, která se rozhodla po kouscích spolykat náš svět, chtěla mechanismus své moci udržet v tajnosti prostřednictvím černého sametu tmy. Na dně každé Díry, v nedozírné hlubině, pak nacházela tma svůj azyl i za dne. Jejich spojenectví bylo tedy účelné.
@@ -146,3 +148,5 @@ Po krátkém (krásném) polibku, při kterém jsem jí hřbetem ruky otřel slz
 Někde nad temnou oblohou pořád svítí hvězdy, pomyslel jsem si.
 
 Nenápadně (Roxana se pořád usmívala) jsem v kapse nahmatal práskačku. Stačila by tak na pět, šest gradulí. Na víc ne…
+
+</section>
