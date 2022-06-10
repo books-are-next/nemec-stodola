@@ -3,6 +3,8 @@ title: Kojná
 contentType: prose
 ---
 
+<section>
+
 Tvář spící ženy byla v tlumeném světle, které do ložnice dopadalo z pouliční lampy, klidná, nehybná a neznámá.
 
 Sledoval její obličej již několik nocí a výsledky jeho pozorování byly zneklidňující; čím déle po nocích na manželku zíral, tím více se vzdalovala podobě ženy, kterou, jak se doposud domníval, zná za sedmnáct let společného života do všech nepatrných detailů. Tak jako běžně užívané slovo neustálým opakováním ztrácí původní význam, tak i hlava spočívající na polštáři vedle něho ztrácela dlouhým pozorováním svou identitu a měnila se v neznámý objekt. Jednotlivé rysy její tváře byly samozřejmě stejné; ústa, nos, klenba očních oblouků, piha na krku, to vše bylo důvěrně známé, a přece se celek, který tyto jednotlivosti spoluvytvářely, měnil během nočních pozorování v cosi nečekaně cizího.
@@ -92,3 +94,5 @@ Sekundu před tím, než okno otevřel, se namodralá zář vytratila. Přesněj
 Jan okno opatrně otevřel a zíral do prostoru za ním po několik dlouhých vteřin. Pak jeho ochromený mozek neochotně přijal neuvěřitelné poselství očí. Vykřikl hlasem určeným pouze pro okamžik děsu, jaký nikdy nepředpokládal, a pokusil se od okna odskočit. Nestačil to již udělat. Paži mu pevně sevřela obrovská šedá ruka, utkaná z holubích pírek a trusu, prokletých odpadků a zasuté suti. Neruka toho, kdo žije z podstaty věcí skrytých a zapovězených, končetina nekonečného strachu před rozbřeskem, hrůzy, jež nepřipouští ohlédnutí přes rameno racionality.
 
 Jana nevratně uchopila pradávná ruka, patřící otci dítěte, které se rozeštkalo hlady kdesi v neslýchaném prostoru šachty.
+
+</section>

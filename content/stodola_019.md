@@ -3,6 +3,8 @@ title: Epidemická choroba na tři
 contentType: prose
 ---
 
+<section>
+
 Když stanuli na svahu, odkud se jim otevřel široký pohled na město, právě svítalo.
 
 Ondřej ani Trn nikdy neviděli nic úžasnějšího. Byli omráčeni proměnlivou, do nedozírna se táhnoucí strukturou střech, uliček, náměstí a schodišť, jimž dominovaly strmé věže kostelů a monumentální skelet rozestavěné katedrály. Mezi stavbami se jako přesycený had líně vinula řeka, přeťatá kamenným mostem.
@@ -115,6 +117,10 @@ V tu vteřinu střihli v režii široký záběr z náměstí, braný kamerou
 
 Přes tento apokalyptický výjev se rozblikal jasně červený nápis MOR. Sál explodoval nadšeným aplausem.
 
+</section>
+
+<section>
+
 Ondřej a Trn opustili město před soumrakem. Kráčeli mlčky vzhůru po stráni stejnou cestou, kterou ráno přišli. Zastavili se na kopci a pohlédli na vrásčitou, kamennou tvář města tonoucího v soumraku. Do nastávající tmy svítily dva požáry jako řeřavé oči démona.
 
 „Bude třeba dlouhé doby, abychom pochopili účel naší cesty. Věřím, že jednoho dne dostaneme odpověď na otázku po vyšším smyslu toho zdánlivě marného putování,“ řekl Trn rozvážně.
@@ -126,3 +132,5 @@ Trn se na něho usmál a pohlédl jediným okem k nebi: „Třeba na jeho odpo
 Obrátili se k městu zády a vyrazili na zpáteční cestu. Za chvíli je pohltila noc.
 
 V reality show ČAS – MAT vyhlásil moderátor otázku pro další kolo: „Masový vrah na šest.“ Technici pořadu právě osazovali mikro­kamery v domě Romana Polanského. Práce v šedesátých letech byla pro ně rutinní a nepříliš zajímavá.
+
+</section>

@@ -3,6 +3,8 @@ title: Prolog
 contentType: prose
 ---
 
+<section>
+
 > „Je mrtvé!“
 
 > „Je živé!“ odporoval Marťan a rozesmál se. „Jste na omylu. Vidíte tu spoustu světel? Je karneval. A tamhlety nádherné čluny štíhlé jak ženy a nádherné ženy štíhlé jak čluny, ženy s tvářemi jako písek, ženy s ohnivými květy v rukou. Vidím je, docela maličké, jak pobíhají v ulicích. A tam já jedu, na slavnost. Celou noc poplujeme po vodě, budeme zpívat, pít a milovat. Copak to nevidíte?“
@@ -30,3 +32,5 @@ contentType: prose
 > „Ty můj malý,“ zasmála se maminka a chtěla Honzíka pochovat. „Vždyť neumíš číst!“
 
 > _(Bohumil Říha: Honzíkova cesta)_
+
+</section>

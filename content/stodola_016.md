@@ -3,6 +3,8 @@ title: Skrytá tvář operní inscenace
 contentType: prose
 ---
 
+<section>
+
 „Během té árie jsem se potichu zvedl ze sedadla potaženého rudým sametem a opustil důstojnickou lóži,“ řekl Reiner.
 
 „Bylo to takové nutkání, kterému jsem nemohl odolat! Bylo nepřekonatelné a velmi, velmi iracionální. Kouzelnou flétnu miluji ze všech jeho oper nejvíc. Nezajímají mne tolik všechna ta zednářská poselství a jinotaje v ní ukryté. Mluvím tu o hudbě! A právě árie Královny noci je pro mne čímsi naprosto posvátným. Jestli existuje na našem pomíjivém a marností prodchnutém světě cosi jako dokonalost, pak je obsažena v tónech té árie.“
@@ -120,3 +122,5 @@ Ošetřovatelka od něho vzala mastný papír a položila ho na malý stolek. P
 Smích otřásající Reinerovou hrudí vytvářel na hladině nové a nové kruhy.
 
 Dokonalé kruhy.
+
+</section>

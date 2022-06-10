@@ -3,6 +3,8 @@ title: Malgo sa kater
 contentType: prose
 ---
 
+<section>
+
 „Parmaz ek storsi, omarba each tu mende,“ odpověděla mu s tváří tak vážnou, že žlutě a růžově květované šaty, obepínající její krásné tělo, působily nepatřičně. Včerejší (dnešní) probdělá noc, neznámá slova a barevné květy zdobící indigovou látku se Markovi vířivě protočily hlavou a zanechaly za sebou bolestnou spoušť.
 
 „Co to říkáš?“ řekl pomalu a s nesmírnou námahou. Pohlédl na ni zoufale, zívnul a protřel si zarudlé oči chlupatými prsty. Bruneta s béžově sametovou pletí stála uprostřed místnosti, živě gestikulovala desítkou prstů zakončených rudými nehty a nenáviděla ho.
@@ -56,3 +58,5 @@ Nadechl se kouře z cigarety a začal vytáčet telefonní číslo. Jediné te
 „Marek?“ řekla. Usmál se a přivřel oči.
 
 „Malgo sa kater, Marek,“ řekl milovaný, důvěrně známý hlas ve sluchátku.
+
+</section>
