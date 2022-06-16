@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-stodola-fd35213",
-  "revision": "fd35213",
+  "identifier": "nemec-stodola-d708027",
+  "revision": "d708027",
   "readingOrder": [
     "promo.html",
     "promo.html",
@@ -35,8 +35,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:46:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655365590298
+    "date": "Thu Jun 16 2022 08:08:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655366901835
   },
   "documents": [
     {
