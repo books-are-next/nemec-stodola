@@ -1,1 +1,600 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Stodola",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Martin Němec",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-14T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-1857-2"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": "",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*"
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "stodola_001.md",
+            "xhtml": "stodola_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stodola_002.md",
+            "xhtml": "stodola_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stodola_003.md",
+            "xhtml": "stodola_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stodola_004.md",
+            "xhtml": "stodola_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stodola_005.md",
+            "xhtml": "stodola_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stodola_006.md",
+            "xhtml": "stodola_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Prolog"
+          },
+          {
+            "filename": "stodola_007.md",
+            "xhtml": "stodola_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Stodola"
+          },
+          {
+            "filename": "stodola_008.md",
+            "xhtml": "stodola_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Malgo sa kater"
+          },
+          {
+            "filename": "stodola_009.md",
+            "xhtml": "stodola_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Plachetnice"
+          },
+          {
+            "filename": "stodola_010.md",
+            "xhtml": "stodola_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Déšť"
+          },
+          {
+            "filename": "stodola_011.md",
+            "xhtml": "stodola_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Díra"
+          },
+          {
+            "filename": "stodola_012.md",
+            "xhtml": "stodola_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "stodola_013.md",
+                "xhtml": "stodola_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pět sester"
+              },
+              {
+                "filename": "stodola_014.md",
+                "xhtml": "stodola_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Samuraj"
+              },
+              {
+                "filename": "stodola_015.md",
+                "xhtml": "stodola_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kojná"
+              }
+            ],
+            "title": "3× fejeton osamělé ženy"
+          },
+          {
+            "filename": "stodola_016.md",
+            "xhtml": "stodola_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Skrytá tvář operní inscenace"
+          },
+          {
+            "filename": "stodola_017.md",
+            "xhtml": "stodola_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ponorka"
+          },
+          {
+            "filename": "stodola_018.md",
+            "xhtml": "stodola_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Koleda"
+          },
+          {
+            "filename": "stodola_019.md",
+            "xhtml": "stodola_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Epidemická choroba na tři"
+          },
+          {
+            "filename": "stodola_020.md",
+            "xhtml": "stodola_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Earl grey"
+          },
+          {
+            "filename": "stodola_021.md",
+            "xhtml": "stodola_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Velké a malé ryby"
+          },
+          {
+            "filename": "stodola_022.md",
+            "xhtml": "stodola_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Noční tramvaj"
+          },
+          {
+            "filename": "stodola_023.md",
+            "xhtml": "stodola_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "První auto Paula F. Shoenlebena"
+          },
+          {
+            "filename": "stodola_024.md",
+            "xhtml": "stodola_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Alzheimer’s game"
+          },
+          {
+            "filename": "stodola_025.md",
+            "xhtml": "stodola_025.xhtml",
+            "id": 24,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Stodola",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Martin Němec",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-14T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stodola_001.md",
+        "xhtml": "stodola_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stodola_002.md",
+        "xhtml": "stodola_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stodola_003.md",
+        "xhtml": "stodola_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stodola_004.md",
+        "xhtml": "stodola_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stodola_005.md",
+        "xhtml": "stodola_005.xhtml"
+      },
+      {
+        "titleSuggest": "Prolog",
+        "subtitleSuggest": "",
+        "filename": "stodola_006.md",
+        "xhtml": "stodola_006.xhtml"
+      },
+      {
+        "titleSuggest": "Stodola",
+        "subtitleSuggest": "",
+        "filename": "stodola_007.md",
+        "xhtml": "stodola_007.xhtml"
+      },
+      {
+        "titleSuggest": "Malgo sa kater",
+        "subtitleSuggest": "",
+        "filename": "stodola_008.md",
+        "xhtml": "stodola_008.xhtml"
+      },
+      {
+        "titleSuggest": "Plachetnice",
+        "subtitleSuggest": "",
+        "filename": "stodola_009.md",
+        "xhtml": "stodola_009.xhtml"
+      },
+      {
+        "titleSuggest": "Déšť",
+        "subtitleSuggest": "",
+        "filename": "stodola_010.md",
+        "xhtml": "stodola_010.xhtml"
+      },
+      {
+        "titleSuggest": "Díra",
+        "subtitleSuggest": "",
+        "filename": "stodola_011.md",
+        "xhtml": "stodola_011.xhtml"
+      },
+      {
+        "titleSuggest": "3× fejeton osamělé ženy",
+        "subtitleSuggest": "",
+        "filename": "stodola_012.md",
+        "xhtml": "stodola_012.xhtml"
+      },
+      {
+        "titleSuggest": "Pět sester",
+        "subtitleSuggest": "",
+        "filename": "stodola_013.md",
+        "xhtml": "stodola_013.xhtml"
+      },
+      {
+        "titleSuggest": "Samuraj",
+        "subtitleSuggest": "",
+        "filename": "stodola_014.md",
+        "xhtml": "stodola_014.xhtml"
+      },
+      {
+        "titleSuggest": "Kojná",
+        "subtitleSuggest": "",
+        "filename": "stodola_015.md",
+        "xhtml": "stodola_015.xhtml"
+      },
+      {
+        "titleSuggest": "Skrytá tvář operní inscenace",
+        "subtitleSuggest": "",
+        "filename": "stodola_016.md",
+        "xhtml": "stodola_016.xhtml"
+      },
+      {
+        "titleSuggest": "Ponorka",
+        "subtitleSuggest": "",
+        "filename": "stodola_017.md",
+        "xhtml": "stodola_017.xhtml"
+      },
+      {
+        "titleSuggest": "Koleda",
+        "subtitleSuggest": "",
+        "filename": "stodola_018.md",
+        "xhtml": "stodola_018.xhtml"
+      },
+      {
+        "titleSuggest": "Epidemická choroba na tři",
+        "subtitleSuggest": "",
+        "filename": "stodola_019.md",
+        "xhtml": "stodola_019.xhtml"
+      },
+      {
+        "titleSuggest": "Earl grey",
+        "subtitleSuggest": "",
+        "filename": "stodola_020.md",
+        "xhtml": "stodola_020.xhtml"
+      },
+      {
+        "titleSuggest": "Velké a malé ryby",
+        "subtitleSuggest": "",
+        "filename": "stodola_021.md",
+        "xhtml": "stodola_021.xhtml"
+      },
+      {
+        "titleSuggest": "Noční tramvaj",
+        "subtitleSuggest": "",
+        "filename": "stodola_022.md",
+        "xhtml": "stodola_022.xhtml"
+      },
+      {
+        "titleSuggest": "První auto Paula F\\. Shoenlebena",
+        "subtitleSuggest": "",
+        "filename": "stodola_023.md",
+        "xhtml": "stodola_023.xhtml"
+      },
+      {
+        "titleSuggest": "Alzheimer’s game",
+        "subtitleSuggest": "",
+        "filename": "stodola_024.md",
+        "xhtml": "stodola_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stodola_025.md",
+        "xhtml": "stodola_025.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_stodola.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_text_bez1radku_-I-_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven3_nadpis",
+      "MLP_venovani",
+      "MLP_verse_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "nemec-stodola"
+    },
+    "generatedAt": 1654948640291
+  }
+}
