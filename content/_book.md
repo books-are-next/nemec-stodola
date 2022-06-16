@@ -15,7 +15,6 @@ meta:
   publisherShort: mkp
 readingOrder:
   - promo.html
-  - promo.html
   - stodola_005.html
   - stodola_006.html
   - stodola_007.html
