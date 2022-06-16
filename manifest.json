@@ -7,9 +7,10 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-stodola-f26d0f8",
-  "revision": "f26d0f8",
+  "identifier": "nemec-stodola-fd35213",
+  "revision": "fd35213",
   "readingOrder": [
+    "promo.html",
     "promo.html",
     "stodola_005.html",
     "stodola_006.html",
@@ -34,8 +35,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:32:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364756411
+    "date": "Thu Jun 16 2022 07:46:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655365590298
   },
   "documents": [
     {
@@ -47,7 +48,19 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "stodola_005.html",
+      "next": "promo.html",
+      "toc": []
+    },
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "promo.html",
       "toc": []
     },
     {
@@ -57,7 +70,7 @@
       "chars": 21,
       "ideas": 1,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "promo.html",
       "next": "stodola_006.html",
       "toc": [
@@ -77,7 +90,7 @@
       "chars": 1460,
       "ideas": 16,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "stodola_005.html",
       "next": "stodola_007.html",
       "toc": [
@@ -97,7 +110,7 @@
       "chars": 8123,
       "ideas": 58,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "stodola_006.html",
       "next": "stodola_008.html",
       "toc": [
@@ -117,7 +130,7 @@
       "chars": 8157,
       "ideas": 28,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "stodola_007.html",
       "next": "stodola_009.html",
       "toc": [
@@ -137,7 +150,7 @@
       "chars": 18593,
       "ideas": 66,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "stodola_008.html",
       "next": "stodola_010.html",
       "toc": [
@@ -157,7 +170,7 @@
       "chars": 17606,
       "ideas": 78,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "stodola_009.html",
       "next": "stodola_011.html",
       "toc": [
@@ -177,7 +190,7 @@
       "chars": 16287,
       "ideas": 73,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "stodola_010.html",
       "next": "stodola_012.html",
       "toc": [
@@ -197,7 +210,7 @@
       "chars": 11361,
       "ideas": 69,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "stodola_011.html",
       "next": "stodola_013.html",
       "toc": [
@@ -239,7 +252,7 @@
       "chars": 5305,
       "ideas": 37,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "stodola_012.html",
       "next": "stodola_014.html",
       "toc": [
@@ -259,7 +272,7 @@
       "chars": 15061,
       "ideas": 101,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "stodola_013.html",
       "next": "stodola_015.html",
       "toc": [
@@ -279,7 +292,7 @@
       "chars": 16573,
       "ideas": 46,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "stodola_014.html",
       "next": "stodola_016.html",
       "toc": [
@@ -299,7 +312,7 @@
       "chars": 10669,
       "ideas": 60,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "stodola_015.html",
       "next": "stodola_017.html",
       "toc": [
@@ -319,7 +332,7 @@
       "chars": 13873,
       "ideas": 57,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "stodola_016.html",
       "next": "stodola_018.html",
       "toc": [
@@ -339,7 +352,7 @@
       "chars": 12360,
       "ideas": 41,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "stodola_017.html",
       "next": "stodola_019.html",
       "toc": [
@@ -359,7 +372,7 @@
       "chars": 14532,
       "ideas": 63,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "stodola_018.html",
       "next": "stodola_020.html",
       "toc": [
@@ -379,7 +392,7 @@
       "chars": 14299,
       "ideas": 105,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "stodola_019.html",
       "next": "stodola_021.html",
       "toc": [
@@ -399,7 +412,7 @@
       "chars": 8703,
       "ideas": 46,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "stodola_020.html",
       "next": "stodola_022.html",
       "toc": [
@@ -419,7 +432,7 @@
       "chars": 15910,
       "ideas": 70,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "stodola_021.html",
       "next": "stodola_023.html",
       "toc": [
@@ -439,7 +452,7 @@
       "chars": 17369,
       "ideas": 117,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "stodola_022.html",
       "next": "stodola_024.html",
       "toc": [
@@ -459,7 +472,7 @@
       "chars": 10760,
       "ideas": 96,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "stodola_023.html",
       "next": "colophon.html",
       "toc": [
@@ -475,8 +488,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 147,
-      "chars": 950,
+      "words": 148,
+      "chars": 955,
       "ideas": 18,
       "role": "colophon",
       "order": null,
@@ -495,8 +508,8 @@
   ],
   "totals": {
     "all": {
-      "words": 38210,
-      "chars": 237994,
+      "words": 38211,
+      "chars": 237999,
       "ideas": 1249
     },
     "chapters": {

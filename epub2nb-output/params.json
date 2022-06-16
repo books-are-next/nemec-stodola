@@ -7,8 +7,9 @@
       "author": "Martin Němec",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-14T00:00:00.000Z",
-      "publisherShort": "mkp",
-      "isbn": "978-80-274-1857-2"
+      "isbn": "ISBN 978-80-274-1857-2",
+      "contentType": "prose",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -41,7 +42,7 @@
             "filename": "stodola_001.md",
             "xhtml": "stodola_001.xhtml",
             "id": 0,
-            "role": "cover",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -94,8 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "stodola_006.md",
@@ -106,7 +108,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
             "title": "Prolog"
           },
@@ -594,6 +596,6 @@
       "user": "books-are-next",
       "repo": "nemec-stodola"
     },
-    "generatedAt": 1655364292682
+    "generatedAt": 1655365505428
   }
 }
