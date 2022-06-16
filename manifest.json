@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-stodola-018f757",
-  "revision": "018f757",
+  "identifier": "nemec-stodola-f2eac4c",
+  "revision": "f2eac4c",
   "readingOrder": [
     "promo.html",
     "stodola_005.html",
@@ -34,8 +34,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 08:17:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655367460818
+    "date": "Thu Jun 16 2022 20:33:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655411632967
   },
   "documents": [
     {
@@ -475,8 +475,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 148,
-      "chars": 955,
+      "words": 147,
+      "chars": 950,
       "ideas": 18,
       "role": "colophon",
       "order": null,
@@ -495,8 +495,8 @@
   ],
   "totals": {
     "all": {
-      "words": 38211,
-      "chars": 237999,
+      "words": 38210,
+      "chars": 237994,
       "ideas": 1249
     },
     "chapters": {
