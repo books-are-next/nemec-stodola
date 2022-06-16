@@ -1,5 +1,6 @@
 ---
 title: Prolog
+hiddenTitle: true
 contentType: prose
 ---
 

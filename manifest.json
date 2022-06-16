@@ -1,0 +1,508 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Stodola",
+  "author": "Martin Němec",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "nemec-stodola-f26d0f8",
+  "revision": "f26d0f8",
+  "readingOrder": [
+    "promo.html",
+    "stodola_005.html",
+    "stodola_006.html",
+    "stodola_007.html",
+    "stodola_008.html",
+    "stodola_009.html",
+    "stodola_010.html",
+    "stodola_011.html",
+    "stodola_012.html",
+    "stodola_013.html",
+    "stodola_014.html",
+    "stodola_015.html",
+    "stodola_016.html",
+    "stodola_017.html",
+    "stodola_018.html",
+    "stodola_019.html",
+    "stodola_020.html",
+    "stodola_021.html",
+    "stodola_022.html",
+    "stodola_023.html",
+    "stodola_024.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jun 16 2022 07:32:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364756411
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "stodola_005.html",
+      "toc": []
+    },
+    {
+      "title": "Stodola",
+      "file": "stodola_005.html",
+      "words": 4,
+      "chars": 21,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "stodola_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prolog",
+      "file": "stodola_006.html",
+      "words": 238,
+      "chars": 1460,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 2,
+      "prev": "stodola_005.html",
+      "next": "stodola_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prolog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stodola",
+      "file": "stodola_007.html",
+      "words": 1298,
+      "chars": 8123,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 3,
+      "prev": "stodola_006.html",
+      "next": "stodola_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stodola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malgo sa kater",
+      "file": "stodola_008.html",
+      "words": 1310,
+      "chars": 8157,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 4,
+      "prev": "stodola_007.html",
+      "next": "stodola_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malgo sa kater",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plachetnice",
+      "file": "stodola_009.html",
+      "words": 2956,
+      "chars": 18593,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 5,
+      "prev": "stodola_008.html",
+      "next": "stodola_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plachetnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Déšť",
+      "file": "stodola_010.html",
+      "words": 2901,
+      "chars": 17606,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 6,
+      "prev": "stodola_009.html",
+      "next": "stodola_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Déšť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Díra",
+      "file": "stodola_011.html",
+      "words": 2670,
+      "chars": 16287,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 7,
+      "prev": "stodola_010.html",
+      "next": "stodola_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Díra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3× fejeton osamělé ženy",
+      "file": "stodola_012.html",
+      "words": 1791,
+      "chars": 11361,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 8,
+      "prev": "stodola_011.html",
+      "next": "stodola_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3× fejeton osamělé ženy",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Virtuosové",
+              "id": "virtuosové",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Abiturienti",
+              "id": "abiturienti",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Zesnulí",
+              "id": "zesnulí",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pět sester",
+      "file": "stodola_013.html",
+      "words": 895,
+      "chars": 5305,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 9,
+      "prev": "stodola_012.html",
+      "next": "stodola_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pět sester",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Samuraj",
+      "file": "stodola_014.html",
+      "words": 2399,
+      "chars": 15061,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 10,
+      "prev": "stodola_013.html",
+      "next": "stodola_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Samuraj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kojná",
+      "file": "stodola_015.html",
+      "words": 2673,
+      "chars": 16573,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 11,
+      "prev": "stodola_014.html",
+      "next": "stodola_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kojná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skrytá tvář operní inscenace",
+      "file": "stodola_016.html",
+      "words": 1663,
+      "chars": 10669,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 12,
+      "prev": "stodola_015.html",
+      "next": "stodola_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skrytá tvář operní inscenace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ponorka",
+      "file": "stodola_017.html",
+      "words": 2170,
+      "chars": 13873,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 13,
+      "prev": "stodola_016.html",
+      "next": "stodola_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ponorka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koleda",
+      "file": "stodola_018.html",
+      "words": 1947,
+      "chars": 12360,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 14,
+      "prev": "stodola_017.html",
+      "next": "stodola_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koleda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epidemická choroba na tři",
+      "file": "stodola_019.html",
+      "words": 2316,
+      "chars": 14532,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 15,
+      "prev": "stodola_018.html",
+      "next": "stodola_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epidemická choroba na tři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Earl grey",
+      "file": "stodola_020.html",
+      "words": 2306,
+      "chars": 14299,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 16,
+      "prev": "stodola_019.html",
+      "next": "stodola_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Earl grey",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velké a malé ryby",
+      "file": "stodola_021.html",
+      "words": 1408,
+      "chars": 8703,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 17,
+      "prev": "stodola_020.html",
+      "next": "stodola_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velké a malé ryby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční tramvaj",
+      "file": "stodola_022.html",
+      "words": 2654,
+      "chars": 15910,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 18,
+      "prev": "stodola_021.html",
+      "next": "stodola_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční tramvaj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První auto Paula F. Shoenlebena",
+      "file": "stodola_023.html",
+      "words": 2771,
+      "chars": 17369,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 19,
+      "prev": "stodola_022.html",
+      "next": "stodola_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První auto Paula F. Shoenlebena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Alzheimer’s game",
+      "file": "stodola_024.html",
+      "words": 1689,
+      "chars": 10760,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 20,
+      "prev": "stodola_023.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Alzheimer’s game",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 147,
+      "chars": 950,
+      "ideas": 18,
+      "role": "colophon",
+      "order": null,
+      "prev": "stodola_024.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 38210,
+      "chars": 237994,
+      "ideas": 1249
+    },
+    "chapters": {
+      "words": 38059,
+      "chars": 237022,
+      "ideas": 1228
+    }
+  }
+}
