@@ -10,9 +10,11 @@ meta:
   author: Martin Němec
   publisher: Městská knihovna v Praze
   modified: '2021-09-14T00:00:00.000Z'
+  isbn: ISBN 978-80-274-1857-2
+  contentType: prose
   publisherShort: mkp
-  isbn: 978-80-274-1857-2
 readingOrder:
+  - promo.html
   - promo.html
   - stodola_005.html
   - stodola_006.html
@@ -38,9 +40,12 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: stodola_005.html
+        title: Věnování
+        hiddenTitle: true
       - link: stodola_006.html
         title: Prolog
-        hiddenTitle: true
+        hiddenTitle: false
       - link: stodola_007.html
         title: Stodola
         hiddenTitle: false
