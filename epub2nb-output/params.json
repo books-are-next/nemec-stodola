@@ -42,7 +42,7 @@
             "filename": "stodola_001.md",
             "xhtml": "stodola_001.xhtml",
             "id": 0,
-            "role": "promo",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -595,6 +595,6 @@
       "user": "books-are-next",
       "repo": "nemec-stodola"
     },
-    "generatedAt": 1655366830696
+    "generatedAt": 1655367327508
   }
 }
