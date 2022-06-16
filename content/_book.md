@@ -64,17 +64,15 @@ tocBase:
       - link: stodola_012.html
         title: 3× fejeton osamělé ženy
         hiddenTitle: false
-        children:
-          - link: stodola_013.html
-            title: Pět sester
-            hiddenTitle: false
-          - link: stodola_014.html
-            title: Samuraj
-            hiddenTitle: false
-          - link: stodola_015.html
-            title: Kojná
-            hiddenTitle: false
-        listType: plain
+      - link: stodola_013.html
+        title: Pět sester
+        hiddenTitle: false
+      - link: stodola_014.html
+        title: Samuraj
+        hiddenTitle: false
+      - link: stodola_015.html
+        title: Kojná
+        hiddenTitle: false
       - link: stodola_016.html
         title: Skrytá tvář operní inscenace
         hiddenTitle: false
