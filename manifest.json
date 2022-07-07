@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-stodola-25e77f3",
-  "revision": "25e77f3",
+  "identifier": "nemec-stodola-5d82dd2",
+  "revision": "5d82dd2",
   "readingOrder": [
     "promo.html",
     "stodola_005.html",
@@ -31,11 +31,11 @@
     "stodola_022.html",
     "stodola_023.html",
     "stodola_024.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:16:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979402103
+    "date": "Thu Jul 07 2022 08:34:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182876114
   },
   "documents": [
     {
@@ -124,7 +124,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Malgo sa kater",
+          "name": "Malgo sa kater",
           "id": null,
           "children": []
         }
@@ -366,7 +366,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Epidemická choroba na tři",
+          "name": "Epidemická choroba na tři",
           "id": null,
           "children": []
         }
@@ -461,12 +461,12 @@
       "role": "chapter",
       "order": 20,
       "prev": "stodola_023.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Alzheimer’s game",
+          "name": "Alzheimer’s game",
           "id": null,
           "children": []
         }
@@ -474,11 +474,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 147,
-      "chars": 950,
+      "chars": 949,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "stodola_024.html",
       "next": null,
@@ -496,7 +496,7 @@
   "totals": {
     "all": {
       "words": 38210,
-      "chars": 237994,
+      "chars": 237993,
       "ideas": 1249
     },
     "chapters": {

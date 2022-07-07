@@ -66,7 +66,7 @@
             "filename": "stodola_003.md",
             "xhtml": "stodola_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -78,7 +78,7 @@
             "filename": "stodola_004.md",
             "xhtml": "stodola_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -350,7 +350,7 @@
             "filename": "stodola_025.md",
             "xhtml": "stodola_025.xhtml",
             "id": 24,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -595,6 +595,6 @@
       "user": "books-are-next",
       "repo": "nemec-stodola"
     },
-    "generatedAt": 1655979191647
+    "generatedAt": 1657182234706
   }
 }
