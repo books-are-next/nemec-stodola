@@ -35,7 +35,7 @@ readingOrder:
   - stodola_022.html
   - stodola_023.html
   - stodola_024.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
