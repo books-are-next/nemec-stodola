@@ -7,9 +7,10 @@
       "author": "Martin Němec",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-14T00:00:00.000Z",
-      "isbn": "978-80-274-1857-2",
+      "isbn": "978-80-274-2678-2",
       "contentType": "prose",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "Beletrie"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -596,6 +597,6 @@
       "user": "books-are-next",
       "repo": "nemec-stodola"
     },
-    "generatedAt": 1655367327508
+    "generatedAt": 1658413030158
   }
 }
