@@ -10,9 +10,10 @@ meta:
   author: Martin Němec
   publisher: Městská knihovna v Praze
   modified: '2021-09-14T00:00:00.000Z'
-  isbn: 978-80-274-1857-2
+  isbn: 978-80-274-2678-2
   contentType: prose
   publisherShort: mkp
+  edition: Beletrie
 readingOrder:
   - promo.html
   - stodola_005.html
