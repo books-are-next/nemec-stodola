@@ -5,10 +5,11 @@
   "title": "Stodola",
   "author": "Martin Němec",
   "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-stodola-6e95754",
-  "revision": "6e95754",
+  "identifier": "nemec-stodola-2cf21bd",
+  "revision": "2cf21bd",
   "readingOrder": [
     "promo.html",
     "stodola_005.html",
@@ -34,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:37:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414221140
+    "date": "Mon Aug 08 2022 11:55:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659959743959
   },
   "documents": [
     {
@@ -476,7 +477,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 147,
-      "chars": 950,
+      "chars": 949,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -495,9 +496,9 @@
   ],
   "totals": {
     "all": {
-      "words": 38210,
-      "chars": 237994,
-      "ideas": 1249
+      "words": 38211,
+      "chars": 238001,
+      "ideas": 1250
     },
     "chapters": {
       "words": 38059,
