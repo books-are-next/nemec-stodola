@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-stodola-374ca30",
-  "revision": "374ca30",
+  "identifier": "nemec-stodola-25d6880",
+  "revision": "25d6880",
   "readingOrder": [
     "promo.html",
     "stodola_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:50:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664902210146
+    "date": "Tue Oct 04 2022 18:42:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908960542
   },
   "documents": [
     {
