@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-stodola-e029ca5",
-  "revision": "e029ca5",
+  "identifier": "nemec-stodola-1721398",
+  "revision": "1721398",
   "readingOrder": [
     "promo.html",
     "stodola_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:52:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150725230
+    "date": "Mon Oct 10 2022 15:43:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416634917
   },
   "documents": [
     {
@@ -477,7 +477,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 144,
-      "chars": 950,
+      "chars": 951,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -497,7 +497,7 @@
   "totals": {
     "all": {
       "words": 38208,
-      "chars": 238002,
+      "chars": 238003,
       "ideas": 1247
     },
     "chapters": {
